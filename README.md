@@ -7,7 +7,7 @@ During the interviews with Richmond residents, I found out that the refinery has
 The data is obtained from the California Governor's Office of Emergency Services.
 
 # Key Topics
-- Data Cleaning
+- Data cleaning
 - Analysis of the trend of incidents in the decades
 - Analysis of the incidents reporting time by year and by agency
 - Analysis of the material type
