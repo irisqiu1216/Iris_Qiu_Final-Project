@@ -1,0 +1,834 @@
+address,Latitude,Longitude,Accuracy Score,Accuracy Type,City,State,County,Zip,ACS Economics/Median household income/Total/Value,ACS Economics/Median household income/Total/Margin of error,ACS Demographics/Median age/Total/Value,ACS Demographics/Median age/Total/Margin of error,ACS Demographics/Race and ethnicity/Not Hispanic or Latino: White alone/Percentage,ACS Demographics/Race and ethnicity/Not Hispanic or Latino: Black or African American alone/Percentage,ACS Demographics/Race and ethnicity/Not Hispanic or Latino: American Indian and Alaska Native alone/Percentage,ACS Demographics/Race and ethnicity/Not Hispanic or Latino: Asian alone/Percentage,ACS Demographics/Race and ethnicity/Not Hispanic or Latino: Native Hawaiian and Other Pacific Islander alone/Percentage
+"2231 Green Ridge Drive,Richmond,Contra Costa County",37.963141,-122.296587,0.9,rooftop,El Sobrante,CA,Contra Costa County,94803.0,135063.0,23932.0,48.0,4.7,0.524,0.085,0.0,0.278,0.028
+"740 Spring St.,Richmond,Contra Costa County",37.922267,-122.335606,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,37214.0,13731.0,20.8,9.9,0.0,0.445,0.0,0.141,0.0
+"Parkway way Drive x Park Central,Richmond,Contra Costa County",37.932061,-121.691478,0.95,street_center,Brentwood,CA,Contra Costa County,94513.0,96607.0,62504.0,28.2,8.9,0.422,0.063,0.161,0.093,0.136
+"MP: 10.75, SUB: Martinez,Richmond,Contra Costa County",37.767543,-122.171536,0.7,street_center,Oakland,CA,Alameda County,94605.0,75288.0,38359.0,33.2,4.8,0.228,0.413,0.0,0.309,0.011
+"3110 regatta Blvd,Richmond,Contra Costa County",37.914071,-122.339687,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,142134.0,27685.0,49.3,12.4,0.324,0.358,0.01,0.214,0.0
+"Castro Ranch Road & Conestoga Street,Richmond,Contra Costa County",37.963196,-122.255559,0.97,intersection,El Sobrante,CA,Contra Costa County,94803.0,,,,,,,,,
+"Giant Rd / Atlas Rd ,Richmond,Contra Costa County",37.959573,-122.334131,0.5,place,San Pablo,CA,Contra Costa County,94806.0,,,,,,,,,
+"MP: 16.6, SUB: Martinez,Richmond,Contra Costa County",38.013825,-121.805581,0.8,rooftop,Antioch,CA,Contra Costa County,94509.0,0.0,0.0,31.8,10.1,0.306,0.0,0.0,0.482,0.0
+"Chevron Richmond Refinery - 841 Chevron Way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"3151 Ricada Blvd ,Richmond,Contra Costa County",37.920033,-122.340146,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,37214.0,13731.0,20.8,9.9,0.0,0.445,0.0,0.141,0.0
+"4003 Fleming Ave,Richmond,Contra Costa County",37.917204,-122.323423,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"Chevron Pier, ,Richmond,Contra Costa County",37.92948,-122.386683,1.0,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"4010 Garvin,Richmond,Contra Costa County",37.943503,-122.329619,0.89,nearest_rooftop_match,Richmond,CA,Contra Costa County,94805.0,80144.0,26888.0,32.3,7.0,0.44,0.049,0.0,0.351,0.0
+"780 Doran Dr, Doran Tunnel,Richmond,Contra Costa County",37.830975,-122.192052,0.7,street_center,Oakland,CA,Alameda County,94611.0,159848.0,15389.0,55.3,8.8,0.6,0.055,0.0,0.182,0.0
+"1300 Canal Blvd,Richmond,Contra Costa County",37.912224,-122.365991,0.85,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+" Intersection of Regatta Blvd. & Morena Bay Parkway,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Intersection of Regatta Blvd. & Morena Bay Parkway,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Pierson Avenue,Richmond,Contra Costa County",37.917524,-122.35544,1.0,street_center,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"100 Chevron Way,Richmond,Contra Costa County",37.929548,-122.386144,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"2315 Cutting Blvd,Richmond,Contra Costa County",37.925473,-122.34726,0.95,rooftop,Richmond,CA,Contra Costa County,94804.0,59840.0,16148.0,24.6,6.5,0.064,0.456,0.0,0.272,0.0
+"2300 Cutting Blvd,Richmond,Contra Costa County",37.924923,-122.347323,0.95,rooftop,Richmond,CA,Contra Costa County,94804.0,37214.0,13731.0,20.8,9.9,0.0,0.445,0.0,0.141,0.0
+"Regatta Way & Marina Bay Park Way,Richmond,Contra Costa County",37.91469,-122.344478,0.13,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"841 Chevron Way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"600 13th Street,Richmond,Contra Costa County",37.939804,-122.357119,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,105795.0,59558.0,28.8,5.7,0.013,0.422,0.0,0.527,0.0
+"Battery Street & Willard Avenue,Richmond,Contra Costa County",37.951245,-122.370664,1.0,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"Potrero Ave and South 12th St,Richmond,Contra Costa County",37.92399,-122.358001,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Hoffmann Blvd and South 8th St,Richmond,Contra Costa County",37.923097,-122.362005,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"4700 Hart Nett Ave,Richmond,Contra Costa County",37.916623,-122.32697,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"Cutting Blvd and Marina Way South,Richmond,Contra Costa County",37.925204,-122.355873,0.4,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Meeker Ave and Marina Bay Parkway,Richmond,Contra Costa County",37.920425,-122.347192,0.35,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Pierson Ave and Marina Bay Parkway,Richmond,Contra Costa County",37.918171,-122.344852,0.33,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"23rd St and Cutting Blvd,Richmond,Contra Costa County",37.925193,-122.347665,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Regatta Boulevard & Marina Bay Parkway,Richmond,Contra Costa County",37.91469,-122.344478,0.33,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Canal Boulevard & Interstate 580,Richmond,Contra Costa County",37.927659,-122.37836,0.76,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"303 South Garrard Blvd.,Richmond,Contra Costa County",37.933892,-122.377516,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"841 Chevron Way, Chevron Richmond Refinery,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Dornan Road,Richmond,Contra Costa County",37.921193,-122.385733,1.0,street_center,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"432 South 2nd Street,Richmond,Contra Costa County",37.926279,-122.367813,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Marina Way South and Wright Ave,Richmond,Contra Costa County",37.921177,-122.355902,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Cutting Blvd and South 1st St,Richmond,Contra Costa County",37.92526,-122.368956,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Potrero Ave and South Eight,Richmond,Contra Costa County",37.924005,-122.362003,0.95,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Regatta Blvd and Marina Bay Parkway,Richmond,Contra Costa County",37.91469,-122.344478,0.33,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"100 Cutting Blvd ,Richmond,Contra Costa County",37.922339,-122.369192,0.95,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"South of Interstate 580, off the Richmond Bridge, just North of Point Richmond (Tank Farm),Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"841 Chevron Way ,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"2377 Garden Tract Rd,Richmond,Contra Costa County",37.966832,-122.376261,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,55625.0,23524.0,29.3,3.9,0.381,0.398,0.0,0.088,0.0
+"647 South 13th Street,Richmond,Contra Costa County",37.923078,-122.357261,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"Meeker Ave at Marina Bay Parkway,Richmond,Contra Costa County",37.920425,-122.347192,0.35,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"4700 Hartnett Ave,Richmond,Contra Costa County",37.916623,-122.32697,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"South 23rd Street, Cutting Blvd,Richmond,Contra Costa County",37.924565,-122.347518,1.0,street_center,Richmond,CA,Contra Costa County,94804.0,37214.0,13731.0,20.8,9.9,0.0,0.445,0.0,0.141,0.0
+"2761 Rollingwood Drive,Richmond,Contra Costa County",37.965659,-122.334437,1.0,rooftop,San Pablo,CA,Contra Costa County,94806.0,137250.0,21823.0,35.0,7.2,0.064,0.102,0.0,0.763,0.0
+"1340 MARINA WAY SOUTH ,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"1340 Marina Way South,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"Marina Way South and Cutting Blvd,Richmond,Contra Costa County",37.925204,-122.355873,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Pearson Avenue and Marina Way south,Richmond,Contra Costa County",37.917459,-122.355923,0.32,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"4700 Hartnet Avenue ,Richmond,Contra Costa County",37.916623,-122.32697,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"Neeker Ave and Marina Way South,Richmond,Contra Costa County",37.919479,-121.951543,0.4,county,,CA,Contra Costa County,,,,,,,,,,
+"Harbor Way South and Cutting Blvd,Richmond,Contra Costa County",37.925213,-122.360055,0.95,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"23rd Street and Cutting Blvd,Richmond,Contra Costa County",37.925193,-122.347665,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Dornan Tunnel,Richmond,Contra Costa County",37.921193,-122.385733,1.0,street_center,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"525 Castro Street,Richmond,Contra Costa County",38.018009,-122.13846,1.0,range_interpolation,Martinez,CA,Contra Costa County,94553.0,35729.0,22499.0,42.4,3.4,0.608,0.236,0.0,0.037,0.0
+"I-580,  East of Central Ave, Mile Post 8.63 of the Martinez Sub ,Richmond,Contra Costa County",37.84603,-122.283696,0.7,street_center,Emeryville,CA,Alameda County,94608.0,84784.0,55327.0,34.3,4.8,0.575,0.394,0.0,0.031,0.0
+"5533 Madison Ave.,Richmond,Contra Costa County",37.918136,-122.316686,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,64191.0,36477.0,31.9,2.8,0.58,0.051,0.0,0.246,0.0
+"Mile Post 1189, Stockton Sub,Richmond,Contra Costa County",37.910296,-122.299762,0.7,street_center,El Cerrito,CA,Contra Costa County,94530.0,130564.0,53924.0,42.0,2.4,0.598,0.022,0.0,0.283,0.033
+"841 Chevron way ,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"MP 13.59, Martinez Sub,Richmond,Contra Costa County",37.914502,-122.313686,0.6,street_center,Richmond,CA,Contra Costa County,94804.0,64191.0,36477.0,31.9,2.8,0.58,0.051,0.0,0.246,0.0
+"2300 Lancaster Dr, Bay Cliff Apartments,Richmond,Contra Costa County",37.972925,-122.340557,0.88,nearest_rooftop_match,San Pablo,CA,Contra Costa County,94806.0,42241.0,14061.0,31.3,6.6,0.087,0.594,0.0,0.174,0.049
+"37.942222, -122.395278,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Corner of Center Court and Giant Highway,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Richmond Refinery - 841 Chevron Way ,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"1601 Atlas Rd,Richmond,Contra Costa County",37.996643,-122.341595,0.9,rooftop,San Pablo,CA,Contra Costa County,94806.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"525 Castro St,Richmond,Contra Costa County",38.018009,-122.13846,1.0,range_interpolation,Martinez,CA,Contra Costa County,94553.0,35729.0,22499.0,42.4,3.4,0.608,0.236,0.0,0.037,0.0
+"2055 STENMARK DRIVE (POINT OF SAN PABLO),Richmond,Contra Costa County",37.960711,-122.418807,0.64,nearest_rooftop_match,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"LAT/ 37.96552 N // LON 122.42817W,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"980 Hensley Street, Richmond, CA,Richmond,Contra Costa County",37.94552,-122.366808,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"MP: 13.8 SUB: Martinez ,Richmond,Contra Costa County",37.931546,-122.361991,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+"MP 13.8 of the Martinez Sub,Richmond,Contra Costa County",37.931546,-122.361991,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+"303 South Garrard Boulevard,Richmond,Contra Costa County",37.933892,-122.377516,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Richmond 11 Berth ,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"901 west Cottomn Blvd,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Milepost: 10.86, Subdivision: Martinez. Cross Streets: Cutting Blvd and Carlson Blvd. ,Richmond,Contra Costa County",37.807641,-122.290902,0.9,street_center,Oakland,CA,Alameda County,94607.0,22560.0,5261.0,31.6,6.3,0.124,0.726,0.0,0.12,0.03
+"IMTT Terminal, 100 CUTTING BLVD,Richmond,Contra Costa County",37.922339,-122.369192,0.95,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Kensignton Ave and Cypress Ave,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Cutting Boulevard & Carlson Boulevard,Richmond,Contra Costa County",37.925173,-122.338017,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"901 West Cutting Boulevard,Richmond,Contra Costa County",37.92567,-122.378645,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"980 Hensley Street,Richmond,Contra Costa County",37.94552,-122.366808,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"200 cutting Blvd,Richmond,Contra Costa County",37.92561,-122.367474,0.8,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"3411 Blume Drive,Richmond,Contra Costa County",37.986722,-122.317866,1.0,rooftop,San Pablo,CA,Contra Costa County,94806.0,0.0,0.0,28.6,3.6,0.267,0.166,0.0,0.447,0.0
+"214 Main Street (behind building),Richmond,Contra Costa County",38.015174,-122.139772,0.9,nearest_rooftop_match,Martinez,CA,Contra Costa County,94553.0,35729.0,22499.0,42.4,3.4,0.608,0.236,0.0,0.037,0.0
+"22 waterline Pl (Behind Home),Richmond,Contra Costa County",37.908762,-122.374686,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"230 W Cutting Blvd,Richmond,Contra Costa County",37.923847,-122.371652,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"1340 Marino Way South // Slip F263,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"841 Chevron Way, Chevron Richmond Refinery ,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"1215 Harbour Way South,Richmond,Contra Costa County",37.914254,-122.359637,0.9,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"ALONGSIDE A SLIP AT 1319 CANAL BLVD. ,Richmond,Contra Costa County",37.907843,-122.369544,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"940 Hensley Street,Richmond,Contra Costa County",37.944823,-122.368456,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"37th Street and Bissell Avenue,Richmond,Contra Costa County",37.933109,-122.334401,1.0,intersection,Richmond,CA,Contra Costa County,94805.0,,,,,,,,,
+"Point Richmond Pier ,Richmond,Contra Costa County",37.90854,-121.60023,0.5,place,Discovery Bay,CA,Contra Costa County,94505.0,,,,,,,,,
+"MP 14.1 Martinez Subdivision,Richmond,Contra Costa County",37.969059,-121.666358,0.9,nearest_rooftop_match,Knightsen,CA,Contra Costa County,94548.0,54177.0,50349.0,32.2,9.1,0.496,0.504,0.0,0.0,0.0
+"MP 10.86 Martinez Subdivision // Cutting and Carlson Blvd ,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"MP 1186.17, Stockton Subdivision,Richmond,Contra Costa County",37.950886,-122.353658,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,85341.0,38916.0,38.3,3.3,0.327,0.25,0.0,0.305,0.0
+"Mile Post 1186.1 Stockton Sub Division,Richmond,Contra Costa County",38.049674,-122.224843,0.85,nearest_rooftop_match,Crockett,CA,Contra Costa County,94525.0,90655.0,28783.0,41.9,9.9,0.749,0.15,0.0,0.048,0.0
+"Pier D 223,Richmond,Contra Costa County",37.926293,-122.386157,0.9,range_interpolation,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Slip D225 Marina Bay Yacht Harbor; 1340 Marina Way South ,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"Milepost marker #11.8 of the Martinez Subdivision,Richmond,Contra Costa County",37.931524,-122.361993,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+"3110 Regatta Blvd,Richmond,Contra Costa County",37.914071,-122.339687,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,142134.0,27685.0,49.3,12.4,0.324,0.358,0.01,0.214,0.0
+"4306 Fran Way x Apian Way,Richmond,Contra Costa County",37.973748,-122.297476,1.0,rooftop,El Sobrante,CA,Contra Costa County,94803.0,80742.0,30033.0,38.7,4.7,0.333,0.208,0.0,0.424,0.0
+"Dornan Drive and Western Drive,Richmond,Contra Costa County",37.92107,-122.385624,0.99,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"Freeway 4 Franklin Canyon Exit ,Richmond,Contra Costa County",37.992823,-122.145743,0.7,street_center,Martinez,CA,Contra Costa County,94553.0,187875.0,46111.0,51.2,6.3,0.578,0.19,0.0,0.206,0.0
+"RICHMOND PIER; NEAR AN ABANDONED BUILDING,Richmond,Contra Costa County",38.012741,-121.335336,0.95,street_center,Stockton,CA,San Joaquin County,95207.0,92964.0,17467.0,37.5,8.6,0.674,0.082,0.0,0.122,0.0
+" 841 Chevron Way ,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Latitude: 37° 54' 30"" N   /   Longitude: 112° 23' 12"" W,Richmond,Contra Costa County",37.826198,-122.268935,0.9,street_center,Oakland,CA,Alameda County,94609.0,0.0,0.0,29.9,9.8,0.646,0.156,0.0,0.101,0.028
+"101 Windjammer Court,Richmond,Contra Costa County",37.911292,-122.339239,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,142134.0,27685.0,49.3,12.4,0.324,0.358,0.01,0.214,0.0
+"200 S Garrard Boulevard,Richmond,Contra Costa County",37.929394,-122.379153,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Mile Post 14.2, Martinez Subdivision,Richmond,Contra Costa County",37.931692,-122.367382,0.9,rooftop,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+"S 23rd St & Cutting Blvd,Richmond,Contra Costa County",37.925193,-122.347665,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"4701 Hartnett Ave,Richmond,Contra Costa County",37.917601,-122.325484,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"1401 Marina Way Suit 240,Richmond,Contra Costa County",37.917125,-122.355774,0.76,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"Marina Way South & Cutting Boulevard,Richmond,Contra Costa County",37.925204,-122.355873,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"23rd Street and Cutting Boulevard,Richmond,Contra Costa County",37.925193,-122.347665,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"4701 Hartnett Avenue,Richmond,Contra Costa County",37.917601,-122.325484,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"Between 12 Nautical mile mark and Chevron dock in Richmond,Richmond,Contra Costa County",38.026702,-122.273892,0.21,nearest_rooftop_match,Hercules,CA,Contra Costa County,94547.0,147708.0,37854.0,38.3,5.5,0.065,0.122,0.0,0.786,0.0
+"1340 MARINA WAY SOUTH,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"551 Dimm Street,Richmond,Contra Costa County",37.937018,-122.323138,1.0,rooftop,Richmond,CA,Contra Costa County,94805.0,134007.0,34402.0,44.2,8.0,0.735,0.021,0.0,0.241,0.0
+"MP 13.59 Martinez Subdivision ,Richmond,Contra Costa County",37.914502,-122.313686,0.6,street_center,Richmond,CA,Contra Costa County,94804.0,64191.0,36477.0,31.9,2.8,0.58,0.051,0.0,0.246,0.0
+"303 South Garrad Blvd ,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"2600 Spinnaker Way,Richmond,Contra Costa County",37.912429,-122.345429,0.88,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"1601 Atlas Road,Richmond,Contra Costa County",37.996643,-122.341595,0.9,rooftop,San Pablo,CA,Contra Costa County,94806.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"1316 CANAL BLVD, (Lat 37.916667, Long -122.400000),Richmond,Contra Costa County",37.907843,-122.369544,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"849 Chevron Way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"901 Nevin Ave,Richmond,Contra Costa County",37.937381,-122.360975,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,0.0,0.0,25.7,10.0,0.028,0.474,0.0,0.417,0.0
+"BRICKYARD COVE,Richmond,Contra Costa County",37.910857,-122.383895,0.95,street_center,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"5759 Ravine Way,Richmond,Contra Costa County",37.944966,-122.318989,1.0,rooftop,Richmond,CA,Contra Costa County,94805.0,154306.0,39107.0,39.2,3.7,0.542,0.105,0.008,0.215,0.0
+"2755 Isabel Street,Richmond,Contra Costa County",37.897055,-122.32188,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"5215 Central Ave.,Richmond,Contra Costa County",37.900883,-122.313417,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,81364.0,52019.0,38.1,4.0,0.342,0.342,0.0,0.187,0.0
+"Cutting Blvd and Marina Way,Richmond,Contra Costa County",37.925204,-122.355873,0.2,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Marin Bay Pkwy at Meeker Ave,Richmond,Contra Costa County",37.920425,-122.347192,0.95,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"D Dock, Slip D-081, 2600 Spinnaker Way,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"1319 Canal Blvd, Richmond Graving Dock 4,Richmond,Contra Costa County",37.907843,-122.369544,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"612 Johnson Drive,Richmond,Contra Costa County",37.983922,-122.355123,0.9,rooftop,San Pablo,CA,Contra Costa County,94806.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"MP 1191.4, Richmond Yard Sub,Richmond,Contra Costa County",38.033658,-122.261239,1.0,range_interpolation,Rodeo,CA,Contra Costa County,94572.0,82039.0,32935.0,49.3,10.2,0.681,0.123,0.0,0.146,0.0
+"1078 View Drive,Richmond,Contra Costa County",37.978902,-122.310048,0.9,rooftop,El Sobrante,CA,Contra Costa County,94803.0,88818.0,22868.0,48.4,4.4,0.141,0.386,0.0,0.443,0.0
+"2995 Atlas Rd,Richmond,Contra Costa County",38.000552,-122.34852,0.9,rooftop,San Pablo,CA,Contra Costa County,94806.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"MP 13.32 Martinez Sub,Richmond,Contra Costa County",37.946109,-122.336145,0.7,street_center,Richmond,CA,Contra Costa County,94804.0,88063.0,32274.0,42.0,8.5,0.448,0.073,0.0,0.458,0.0
+"1300 Roosevelt Ave ,Richmond,Contra Costa County",37.939804,-122.357119,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,105795.0,59558.0,28.8,5.7,0.013,0.422,0.0,0.527,0.0
+"MP 1186.1, Stockton Sub.,Richmond,Contra Costa County",38.049674,-122.224843,0.85,nearest_rooftop_match,Crockett,CA,Contra Costa County,94525.0,90655.0,28783.0,41.9,9.9,0.749,0.15,0.0,0.048,0.0
+"37 55 03.81N  122 21 49.34W, North Star Marina Berth 22, Parr Canal,Richmond,Contra Costa County",37.919479,-121.951543,0.4,county,,CA,Contra Costa County,,,,,,,,,,
+"6207 Huntington Ave ,Richmond,Contra Costa County",37.908449,-122.307531,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,86078.0,20727.0,39.5,12.5,0.695,0.03,0.0,0.15,0.0
+"980 Hensley St,Richmond,Contra Costa County",37.94552,-122.366808,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Westbound 80 at Carson Blvd,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"861 Wharf St,,Richmond,Contra Costa County",37.919078,-122.37452,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"777 Mesa Way,Richmond,Contra Costa County",37.941728,-122.332566,1.0,rooftop,Richmond,CA,Contra Costa County,94805.0,86451.0,39485.0,49.6,14.6,0.621,0.329,0.0,0.013,0.0
+"402 Wright Ave,Richmond,Contra Costa County",37.9296,-121.925911,0.86,rooftop,Clayton,CA,Contra Costa County,94517.0,175701.0,91681.0,47.6,15.7,0.982,0.0,0.0,0.0,0.0
+"Radiant Ave & Parr Blvd // MP: 14.22 Martinez Subdivision,Richmond,Contra Costa County",37.931386,-122.346775,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"South 4th Street & Cutting Boulevard,Richmond,Contra Costa County",37.925248,-122.365988,0.99,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"LAT: 37.9206852 LONG -122.3626944,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Gaynor Ave ( and throughout the neighborhood) ,Richmond,Contra Costa County",37.944396,-122.349093,1.0,street_center,Richmond,CA,Contra Costa County,94801.0,96250.0,24400.0,32.5,2.5,0.113,0.296,0.046,0.095,0.0
+"Eastbound 580 just west of the toll plaza,Richmond,Contra Costa County",37.732674,-122.237103,0.7,street_center,Alameda,CA,Alameda County,94502.0,199962.0,31010.0,37.6,5.1,0.384,0.067,0.0,0.462,0.023
+"MP: 14.6 / SUB: MARTINEZ,Richmond,Contra Costa County",37.931508,-122.3636,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+"INTERSECTION OF 37TH AND NIVEN,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"901 West Cutting Blvd,Richmond,Contra Costa County",37.92567,-122.378645,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"820 38th Street,Richmond,Contra Costa County",37.944065,-122.330756,0.9,rooftop,Richmond,CA,Contra Costa County,94805.0,84103.0,12054.0,44.3,16.5,0.255,0.205,0.0,0.432,0.0
+"SLIP 211; DOCK F; MARINA BAY YACHT HARBOR,Richmond,Contra Costa County",37.919479,-121.951543,0.4,county,,CA,Contra Costa County,,,,,,,,,,
+"501 Duboce Ave ,Richmond,Contra Costa County",37.952884,-122.365025,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,54474.0,9422.0,29.1,8.4,0.042,0.705,0.0,0.253,0.0
+"RICHMOND LONG WHARF,Richmond,Contra Costa County",37.912211,-122.303675,0.9,street_center,El Cerrito,CA,Contra Costa County,94530.0,122750.0,31172.0,38.4,1.3,0.644,0.015,0.005,0.29,0.0
+"Latitude: 38° 01' 48"" N Longitude: 122° 17' 24"" W,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"WB I 80 @ Hilltop exit,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Martinez Sub, MP 13.4,Richmond,Contra Costa County",38.033414,-122.264963,0.7,street_center,Rodeo,CA,Contra Costa County,94572.0,48902.0,26960.0,30.7,9.0,0.277,0.36,0.0,0.169,0.0
+"303 S. Garrard Blvd. ,Richmond,Contra Costa County",37.933892,-122.377516,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"488 Wright Ave ,Richmond,Contra Costa County",37.920165,-122.364452,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"156 E SCENIC AVE ,Richmond,Contra Costa County",37.922211,-122.383384,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"601 CANAL BLVD,Richmond,Contra Costa County",37.919772,-122.379063,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"2400 Florida Ave ,Richmond,Contra Costa County",37.929393,-122.346806,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,59840.0,16148.0,24.6,6.5,0.064,0.456,0.0,0.272,0.0
+"1045 Hensley St,Richmond,Contra Costa County",37.947337,-122.366128,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"3411 Blume Dr,Richmond,Contra Costa County",37.986722,-122.317866,1.0,rooftop,San Pablo,CA,Contra Costa County,94806.0,0.0,0.0,28.6,3.6,0.267,0.166,0.0,0.447,0.0
+"841 Richmond Way,Richmond,Contra Costa County",37.910253,-122.302397,1.0,range_interpolation,El Cerrito,CA,Contra Costa County,94530.0,122750.0,31172.0,38.4,1.3,0.644,0.015,0.005,0.29,0.0
+"MP 10.8, Martinez Sub, Area of Cutting Blvd at Spring St,Richmond,Contra Costa County",37.931479,-122.361695,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,32917.0,20655.0,53.3,16.4,0.059,0.727,0.0,0.14,0.0
+"MP 14.22, Martinez Sub,Richmond,Contra Costa County",37.931386,-122.346775,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"Mile Post 1186.6,Richmond,Contra Costa County",38.02938,-122.267089,0.7,street_center,Rodeo,CA,Contra Costa County,94572.0,82375.0,40723.0,33.6,4.3,0.27,0.238,0.0,0.365,0.11
+"1315 Monterey St. Behind this address along Baxter Creek,Richmond,Contra Costa County",37.913261,-122.323092,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,81364.0,52019.0,38.1,4.0,0.342,0.342,0.0,0.187,0.0
+"MP 11.7 of the Martinez Sub,Richmond,Contra Costa County",38.028134,-122.26587,1.0,range_interpolation,Rodeo,CA,Contra Costa County,94572.0,82375.0,40723.0,33.6,4.3,0.27,0.238,0.0,0.365,0.11
+"Milepost marker #1189 of the Stockton Subdivision (Richmond Yard),Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"3754.564 N / 12222.797 W /// Latitude: 37° 54' 34"" N Longitude: 122° 22' 48"" W,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"North Side of the Richmond Bridge,Richmond,Contra Costa County",38.021071,-121.358521,0.6,street_center,Stockton,CA,San Joaquin County,95219.0,75848.0,27669.0,40.6,19.7,0.423,0.199,0.0,0.226,0.0
+"100 CUTTING BLVD,Richmond,Contra Costa County",37.922339,-122.369192,0.95,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Richmond Refinery, Chevron: 841 Chevron Way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Along the slough behind Pelican Way, Richmond Harbor Channel,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Latitude: 37° 53' 24"" N //  Longitude: 122° 23' 57"" W,Richmond,Contra Costa County",37.920621,-122.319972,0.6,street_center,El Cerrito,CA,Contra Costa County,94530.0,78224.0,27563.0,32.5,3.8,0.193,0.075,0.02,0.697,0.0
+"1308 Pelican Way,Richmond,Contra Costa County",37.911037,-122.380725,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"900 Dornan Dr,Richmond,Contra Costa County",37.914924,-122.383193,0.81,nearest_rooftop_match,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"100 Chevron Way ,Richmond,Contra Costa County",37.929548,-122.386144,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Seen from pedestrian trail near San Rafael Bridge,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Sub: Martinez, MP: 11.9,Richmond,Contra Costa County",37.931577,-122.361051,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,32917.0,20655.0,53.3,16.4,0.059,0.727,0.0,0.14,0.0
+"3140 Overlook Way (open field area near Hilltop Mall Road),Richmond,Contra Costa County",37.983929,-122.32841,1.0,range_interpolation,San Pablo,CA,Contra Costa County,94806.0,68108.0,18288.0,29.2,1.6,0.301,0.307,0.0,0.07,0.046
+"MPM 14.96 of the Martineze Sub, Lat 37.9783501 Long -122.3579725,Richmond,Contra Costa County",37.74793,-122.166638,0.7,street_center,Oakland,CA,Alameda County,94603.0,58750.0,44253.0,32.8,9.1,0.114,0.795,0.0,0.034,0.0
+"Lat/Long 37.903972, -122.319802,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"6035 Giant Rd,Richmond,Contra Costa County",37.999391,-122.343759,1.0,rooftop,San Pablo,CA,Contra Costa County,94806.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"Seaport Ave and Carlson Blvd on the Bayview Overpass ,Richmond,Contra Costa County",37.916163,-122.326329,0.76,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"2505 Columbia Ave,Richmond,Contra Costa County",37.903052,-122.315464,0.86,rooftop,Richmond,CA,Contra Costa County,94804.0,81364.0,52019.0,38.1,4.0,0.342,0.342,0.0,0.187,0.0
+"Lettia Rd at Michele Dr Milemarker 17.5 Martinez Sub,Richmond,Contra Costa County",37.738085,-121.934065,0.7,rooftop,San Ramon,CA,Contra Costa County,94583.0,216550.0,36570.0,48.1,5.2,0.727,0.0,0.0,0.216,0.0
+"Milepost marker 11.4 of the Martinez Subdivision,Richmond,Contra Costa County",37.931644,-122.365959,0.9,rooftop,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+"1 Parr Blvd,Richmond,Contra Costa County",37.962334,-122.39602,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,55625.0,23524.0,29.3,3.9,0.381,0.398,0.0,0.088,0.0
+"1306 Canal Blvd,Richmond,Contra Costa County",37.912224,-122.365991,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Corner of Carlson Blvd. X Imperial Ave,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Cutting Blvd. Crossing,Richmond,Contra Costa County",37.92507,-122.337523,0.9,street_center,Richmond,CA,Contra Costa County,94804.0,46279.0,15606.0,31.8,3.9,0.271,0.61,0.0,0.032,0.0
+"1145 HARBOR WAY SOUTH,Richmond,Contra Costa County",37.91889,-122.361027,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"MP 11.4 of the Martinez Sub,Richmond,Contra Costa County",37.931644,-122.365959,0.9,rooftop,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+"Sub: Martinez, MP: 14.1,Richmond,Contra Costa County",37.969059,-121.666358,0.9,nearest_rooftop_match,Knightsen,CA,Contra Costa County,94548.0,54177.0,50349.0,32.2,9.1,0.496,0.504,0.0,0.0,0.0
+"MP #14.07; Martinez subdivision ,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Milepost marker 1189 of the Stockton Subdivision (Richmond Railyard),Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"1100 South 27th St,Richmond,Contra Costa County",37.917449,-122.343911,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,142134.0,27685.0,49.3,12.4,0.324,0.358,0.01,0.214,0.0
+"2601 Hill Top Dr. Unit 332,Richmond,Contra Costa County",37.987669,-122.336907,0.9,rooftop,San Pablo,CA,Contra Costa County,94806.0,129261.0,24205.0,33.9,17.0,0.202,0.663,0.0,0.06,0.0
+"POINT SAN PABLO YACHT HARBOR/ 1900 WESTERN DRIVE,Richmond,Contra Costa County",37.960711,-122.418807,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"SAN FRANSISCO ANCHORAGE 5; LAT: 37.54 N 122.25 W,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"SANTA FE CHANNEL / SUGAR DOCKS,Richmond,Contra Costa County",38.012424,-122.287647,1.0,street_center,Hercules,CA,Contra Costa County,94547.0,118750.0,39351.0,41.7,3.3,0.193,0.255,0.0,0.472,0.0
+"841 CHEVRON WAY,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"488 Wright Avenue,Richmond,Contra Costa County",37.920165,-122.364452,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Chevron Terminal #3,Richmond,Contra Costa County",37.924944,-122.384465,0.9,range_interpolation,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Park Central and Parkside Dr,Richmond,Contra Costa County",37.97634,-122.313722,0.92,intersection,El Sobrante,CA,Contra Costa County,94803.0,,,,,,,,,
+"322 44th St.,Richmond,Contra Costa County",37.933643,-122.327919,1.0,range_interpolation,Richmond,CA,Contra Costa County,94805.0,110515.0,33645.0,35.2,9.8,0.269,0.18,0.0,0.526,0.0
+"1890 Parkside Drive,Richmond,Contra Costa County",37.97971,-122.024158,1.0,range_interpolation,Concord,CA,Contra Costa County,94519.0,98875.0,86747.0,31.7,3.6,0.547,0.0,0.0,0.132,0.0
+"LAT / 37.918981 LON / -122.348085,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Parr Railroad Crossing Milepost 14.22 in the Martinez Sub,Richmond,Contra Costa County",37.931386,-122.346775,0.4,range_interpolation,Richmond,CA,Contra Costa County,94801.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"MARINA BAY YACHT HARBOR; DOCK E,Richmond,Contra Costa County",37.922602,-122.34771,1.0,street_center,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"CUTTING BLVD / MP 10.8,Richmond,Contra Costa County",37.931479,-122.361695,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,32917.0,20655.0,53.3,16.4,0.059,0.727,0.0,0.14,0.0
+"Subdivision: Martinez, MP: 10.75,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"841 CEVRON WAY,Richmond,Contra Costa County",37.706516,-122.095197,0.7,street_center,Castro Valley,CA,Alameda County,94546.0,137411.0,25792.0,49.5,3.9,0.439,0.035,0.006,0.487,0.0
+"NORTH OF THE WEST SPAN OF RICHMOND BRIDGE,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"4209 Jenkins Way,Richmond,Contra Costa County",37.985935,-122.356827,1.0,rooftop,San Pablo,CA,Contra Costa County,94806.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"841 Chevron Wy, Site # A0010,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"841 Chevron,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"841 Chevron Wy,Richmond,Contra Costa County",37.92948,-122.386683,0.1,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"1411 Harbour Way South,Richmond,Contra Costa County",37.913363,-122.361605,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"RICHMOND PKWY WESTBOUND AT I80,Richmond,Contra Costa County",37.983026,-122.316052,0.57,intersection,Pinole,CA,Contra Costa County,94564.0,,,,,,,,,
+"POINT RICHMOND NEAR DOCK FOR OIL TANKERS,Richmond,Contra Costa County",37.90854,-121.60023,0.5,place,Discovery Bay,CA,Contra Costa County,94505.0,,,,,,,,,
+"MP 14.22 DOT/ 751694D,Richmond,Contra Costa County",37.931386,-122.346775,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"303 Garrard Blvd,Richmond,Contra Costa County",37.936462,-122.372425,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"RICHMOND MARINA BAY YACHT HARBOR,Richmond,Contra Costa County",37.912211,-122.303675,0.3,street_center,El Cerrito,CA,Contra Costa County,94530.0,122750.0,31172.0,38.4,1.3,0.644,0.015,0.005,0.29,0.0
+"Port of Richmond, Berth 20,Richmond,Contra Costa County",37.925297,-122.38445,0.9,range_interpolation,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"1700 Nevin Plaza, MP 12, Martinez Sub, Richmond Amtrak Station,Richmond,Contra Costa County",37.937132,-122.354203,0.07,nearest_rooftop_match,Richmond,CA,Contra Costa County,94801.0,105795.0,59558.0,28.8,5.7,0.013,0.422,0.0,0.527,0.0
+"Levin Richmond Terminal, Richmond 20,Richmond,Contra Costa County",37.565285,-121.982721,0.5,place,Fremont,CA,Alameda County,94536.0,,,,,,,,,
+"Milepost marker #12,Richmond,Contra Costa County",37.925279,-122.384432,0.9,range_interpolation,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"2301 Columbia Blvd,Richmond,Contra Costa County",37.904248,-122.316092,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,81364.0,52019.0,38.1,4.0,0.342,0.342,0.0,0.187,0.0
+"281 Chevron Way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Latitude: 37° 54' 19"" N // Longitude: 122° 23' 32"" W,Richmond,Contra Costa County",37.915393,-122.318402,0.6,street_center,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"Richmond Terminal #22, 488 Wright Ave,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"1601Atlis Road,Richmond,Contra Costa County",37.996643,-122.341595,0.9,rooftop,San Pablo,CA,Contra Costa County,94806.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"Milepost: 12.4 at Martinez Sub.,Richmond,Contra Costa County",38.033414,-122.264963,0.7,street_center,Rodeo,CA,Contra Costa County,94572.0,48902.0,26960.0,30.7,9.0,0.277,0.36,0.0,0.169,0.0
+"Point Richmond,Richmond,Contra Costa County",37.90854,-121.60023,0.5,place,Discovery Bay,CA,Contra Costa County,94505.0,,,,,,,,,
+"838 29th St,Richmond,Contra Costa County",37.819553,-122.27462,0.9,rooftop,Emeryville,CA,Alameda County,94608.0,87824.0,7370.0,30.8,3.9,0.308,0.31,0.0,0.236,0.004
+"2830 Garvin Ave,Richmond,Contra Costa County",37.943444,-122.340165,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,67218.0,39298.0,35.7,8.9,0.64,0.019,0.0,0.281,0.0
+"Richmond Parkway / San Pablo Avenue,Richmond,Contra Costa County",37.991132,-122.332457,0.97,intersection,San Pablo,CA,Contra Costa County,94806.0,,,,,,,,,
+"Lakeside Dr and Richmond Pkwy,Richmond,Contra Costa County",37.989972,-122.328664,1.0,intersection,San Pablo,CA,Contra Costa County,94806.0,,,,,,,,,
+"23rd street and cutting Boulevard,Richmond,Contra Costa County",37.925193,-122.347665,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"1211 Wright Avenue,Richmond,Contra Costa County",37.921543,-122.357759,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"Interstate 580 & Canal Boulevard,Richmond,Contra Costa County",37.927659,-122.37836,0.96,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"2377 Tract Road,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"West Chanslor Ave & Curry Ave,Richmond,Contra Costa County",37.932848,-122.373854,0.8,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"1900 Meeker Avenue,Richmond,Contra Costa County",37.919435,-122.350676,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"36th St & Wall Ave,Richmond,Contra Costa County",37.928022,-122.335205,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Cutting Blvd & Marina Way South,Richmond,Contra Costa County",37.925204,-122.355873,0.4,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"A Street & Ripley Avenue,Richmond,Contra Costa County",37.938421,-122.36942,0.9,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"Marina Bay Parkway & Pierson Avenue,Richmond,Contra Costa County",37.918171,-122.344852,0.93,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Battery & Willard ave,Richmond,Contra Costa County",37.951245,-122.370664,0.8,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"Ells Street & Parkview Place,Richmond,Contra Costa County",37.947523,-122.384032,0.5,place,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"23rd Street & Cutting Blvd,Richmond,Contra Costa County",37.925193,-122.347665,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"4701 Hartett Avenue,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"5400 Hartnett Ave,Richmond,Contra Costa County",37.917287,-122.325666,0.7,street_center,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"23rd St. and Cutting BLVD,Richmond,Contra Costa County",37.925193,-122.347665,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"530 W Cutting Blvd,Richmond,Contra Costa County",37.924094,-122.374042,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"841 Chevron Way, Richmond Long Wharf,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Road crossing DOT #029854C, milepost marker 1187.19 of the Stockton Subdivision (Brookside Drive),Richmond,Contra Costa County",37.93718,-122.351362,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,77414.0,65268.0,29.6,4.8,0.187,0.612,0.0,0.162,0.0
+"MP 13.03, Martines Sub Division,Richmond,Contra Costa County",37.736493,-121.125445,0.61,nearest_rooftop_match,Ripon,CA,San Joaquin County,95366.0,61250.0,16706.0,32.7,14.7,0.797,0.0,0.0,0.074,0.0
+"Latitude: 37° 54' 45"" N  /  Longitude: 122° 21' 00"" W  ( MARINA BAY YACHT  HARBOR ),Richmond,Contra Costa County",37.826198,-122.268935,0.3,street_center,Oakland,CA,Alameda County,94609.0,0.0,0.0,29.9,9.8,0.646,0.156,0.0,0.101,0.028
+"West Ohio Ave, Canal Blvd,Richmond,Contra Costa County",37.919479,-121.951543,0.4,county,,CA,Contra Costa County,,,,,,,,,,
+"Lat  37.902113 Long: 122.297997 / Corner of  Richmond St. Fairmount Ave,El Cerrito(1),Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Marina Bay Yatch Harbor Dock E,Richmond,Contra Costa County",37.922602,-122.34771,1.0,street_center,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"MP 13.59 Martinez Sub,Richmond,Contra Costa County",37.914502,-122.313686,0.6,street_center,Richmond,CA,Contra Costa County,94804.0,64191.0,36477.0,31.9,2.8,0.58,0.051,0.0,0.246,0.0
+"Milepost marker 11.75 of the Martinez Subdivision,Richmond,Contra Costa County",37.767543,-122.171536,0.7,street_center,Oakland,CA,Alameda County,94605.0,75288.0,38359.0,33.2,4.8,0.228,0.413,0.0,0.309,0.011
+"Brooks Island Jetty,Richmond,Contra Costa County",37.979131,-121.729608,0.95,street_center,Oakley,CA,Contra Costa County,94561.0,172962.0,37302.0,34.6,10.0,0.968,0.0,0.0,0.003,0.0
+"600 South 4th Street,Richmond,Contra Costa County",37.924002,-122.3648,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Richmond Yard, Stockton Sub , MP1189, 303 Garrard Blvd,Richmond,Contra Costa County",37.822676,-122.255823,1.0,street_center,Oakland,CA,Alameda County,94611.0,58484.0,30714.0,35.7,9.2,0.428,0.321,0.0,0.097,0.0
+"Milepost marker 13.3 of the Martinez Subdivision (road crossing DOT #751691H),Richmond,Contra Costa County",37.931623,-122.366965,0.9,rooftop,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+" 16th St, MP 12 of the Matinez Sub.,Richmond,Contra Costa County",37.956101,-122.353837,0.3,street_center,San Pablo,CA,Contra Costa County,94806.0,98684.0,25086.0,26.5,4.2,0.226,0.202,0.0,0.226,0.0
+"841 Chevron Way Richmond ,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"653 McLaughlin Ave,Richmond,Contra Costa County",37.93905,-122.325985,0.95,rooftop,Richmond,CA,Contra Costa County,94805.0,123882.0,44857.0,42.9,8.9,0.741,0.105,0.0,0.101,0.0
+"801 4Th Street,Richmond,Contra Costa County",38.033041,-122.265379,1.0,range_interpolation,Rodeo,CA,Contra Costa County,94572.0,82375.0,40723.0,33.6,4.3,0.27,0.238,0.0,0.365,0.11
+"Milepost marker #1191.2 of the Stockton Subdivision,Richmond,Contra Costa County",37.937315,-121.699511,0.89,nearest_rooftop_match,Brentwood,CA,Contra Costa County,94513.0,82277.0,52377.0,31.5,14.0,0.205,0.603,0.0,0.125,0.0
+"530 W Cutting Blvd, KKMI Boat Yard,Richmond,Contra Costa County",37.924094,-122.374042,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"MPM 9.95 on the Martinez Sub, Carlson Blvd.,Richmond,Contra Costa County",37.745929,-122.172975,0.7,street_center,Oakland,CA,Alameda County,94603.0,85741.0,72802.0,29.3,4.7,0.0,1.0,0.0,0.0,0.0
+"Western Drive x Cliffside Ct. - 500 Feet west of the cross streets.,Richmond,Contra Costa County",37.824788,-122.009156,0.49,nearest_rooftop_match,Danville,CA,Contra Costa County,94526.0,225250.0,119428.0,48.2,5.7,0.901,0.0,0.0,0.053,0.0
+"MP 10 Martinez Sub,Richmond,Contra Costa County",38.011017,-122.117975,0.7,street_center,Martinez,CA,Contra Costa County,94553.0,73965.0,10977.0,53.3,5.9,0.873,0.041,0.0,0.023,0.0
+"454 Dimm St,Richmond,Contra Costa County",37.935675,-122.321937,1.0,rooftop,Richmond,CA,Contra Costa County,94805.0,134007.0,34402.0,44.2,8.0,0.735,0.021,0.0,0.241,0.0
+"1340 Marina Way S,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"1314 Canal Blvd.,Richmond,Contra Costa County",37.912224,-122.365991,0.85,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Richmond Railyard, MP 1189 Stockton Sub,Richmond,Contra Costa County",37.910296,-122.299762,0.7,street_center,El Cerrito,CA,Contra Costa County,94530.0,130564.0,53924.0,42.0,2.4,0.598,0.022,0.0,0.283,0.033
+"Latitude: 37° 54' 17"" N   /   Longitude: 122° 21' 54"" W,Richmond,Contra Costa County",37.826198,-122.268935,0.9,street_center,Oakland,CA,Alameda County,94609.0,0.0,0.0,29.9,9.8,0.646,0.156,0.0,0.101,0.028
+"1414 Harbor Way S,Richmond,Contra Costa County",37.911533,-122.358167,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"Latitude: 37° 54' 37"", Longitude: 122° 22' 47"",Point Richmond,Contra Costa County",37.915393,-122.318402,0.6,street_center,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"134 S. 9th St.,Richmond,Contra Costa County",37.930091,-122.360719,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,43255.0,7078.0,31.4,1.7,0.077,0.653,0.009,0.059,0.0
+"7th St & Chanhellor,Richmond,Contra Costa County",37.94352,-122.362455,0.9,street_center,Richmond,CA,Contra Costa County,94801.0,36359.0,22278.0,38.3,9.6,0.0,1.0,0.0,0.0,0.0
+"37 58 00 N 122 25 00 W,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Keller BEach Pier,Point Richmond,Contra Costa County",37.952856,-121.920962,1.0,street_center,Clayton,CA,Contra Costa County,94517.0,154550.0,51479.0,38.9,10.8,0.592,0.0,0.0,0.285,0.0
+"Milepost marker 11.25 of the Martinez Subdivision,Richmond,Contra Costa County",37.932874,-122.34492,0.69,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,103500.0,68832.0,44.6,14.6,0.284,0.17,0.0,0.534,0.0
+"100 Cutting Blvd, Richmond Inner Harbor,Richmond,Contra Costa County",37.922339,-122.369192,0.95,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"San Francisco Bay; Richmond Harbor; Parr Canal,Richmond,Contra Costa County",37.543725,-121.979879,0.9,street_center,Fremont,CA,Alameda County,94538.0,112308.0,28600.0,35.3,2.5,0.135,0.023,0.004,0.736,0.022
+"SAN FRANCISCO BAY; RICHMOND HARBOR; PARR CANAL,Richmond,Contra Costa County",37.543725,-121.979879,0.9,street_center,Fremont,CA,Alameda County,94538.0,112308.0,28600.0,35.3,2.5,0.135,0.023,0.004,0.736,0.022
+"MP 12.7 of the Martinez Sub,Richmond,Contra Costa County",38.027868,-122.26573,1.0,range_interpolation,Rodeo,CA,Contra Costa County,94572.0,82375.0,40723.0,33.6,4.3,0.27,0.238,0.0,0.365,0.11
+"600 S 4th St,Richmond,Contra Costa County",37.924002,-122.3648,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"1145 Harbor Way South,Richmond,Contra Costa County",37.91889,-122.361027,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"1140 Canal Boulevard,Richmond,Contra Costa County",37.917713,-122.369026,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"MP 13.5 Martinez Sub,Richmond,Contra Costa County",37.728394,-121.946034,0.7,nearest_rooftop_match,San Ramon,CA,Contra Costa County,94583.0,198800.0,73261.0,38.3,12.7,0.329,0.007,0.0,0.605,0.0
+"MPM 11.75 on the Martinez Sub,Richmond,Contra Costa County",37.767543,-122.171536,0.7,street_center,Oakland,CA,Alameda County,94605.0,75288.0,38359.0,33.2,4.8,0.228,0.413,0.0,0.309,0.011
+"Lat: 37° 54' 29"" N | Long: 122° 23' 34"" W,Richmond,Contra Costa County",37.915393,-122.318402,0.6,street_center,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"intersection of San Pablo Avenue and Garvin Avenue,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"525 CASTRO ST   ,Richmond,Contra Costa County",38.018009,-122.13846,1.0,range_interpolation,Martinez,CA,Contra Costa County,94553.0,35729.0,22499.0,42.4,3.4,0.608,0.236,0.0,0.037,0.0
+"141 Chevron Way,Richmond,Contra Costa County",37.929702,-122.386463,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"5333 Gately Ave,Richmond,Contra Costa County",37.916543,-122.319044,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"980 Hensley St.,Richmond,Contra Costa County",37.94552,-122.366808,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Marina Bay Pkwy at Regetta Blvd,Richmond,Contra Costa County",37.922602,-122.34771,1.0,street_center,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"4028 Lambert Rd,Richmond,Contra Costa County",37.971192,-122.312414,1.0,rooftop,El Sobrante,CA,Contra Costa County,94803.0,100000.0,31499.0,39.6,4.6,0.594,0.101,0.0,0.268,0.0
+"700 Barrett Ave,Richmond,Contra Costa County",37.938267,-122.363308,0.86,range_interpolation,Richmond,CA,Contra Costa County,94801.0,0.0,0.0,25.7,10.0,0.028,0.474,0.0,0.417,0.0
+"1140 Canal Blvd, Kinder Morgan,Richmond,Contra Costa County",37.917713,-122.369026,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"1921 San Joaquin Street ,Richmond,Contra Costa County",37.907029,-122.318081,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,81364.0,52019.0,38.1,4.0,0.342,0.342,0.0,0.187,0.0
+"MM 14.07 of the Martinez Sub,Richmond,Contra Costa County",38.027871,-122.265724,1.0,range_interpolation,Rodeo,CA,Contra Costa County,94572.0,82375.0,40723.0,33.6,4.3,0.27,0.238,0.0,0.365,0.11
+"BERTH 7, PORT OF RICHMOND,Richmond,Contra Costa County",37.919479,-121.951543,0.95,county,,CA,Contra Costa County,,,,,,,,,,
+"665 South 31st Street,Richmond,Contra Costa County",37.922681,-122.339778,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,37214.0,13731.0,20.8,9.9,0.0,0.445,0.0,0.141,0.0
+"44th St at MacDonald Ave,Richmond,Contra Costa County",37.932957,-122.328198,1.0,intersection,Richmond,CA,Contra Costa County,94805.0,,,,,,,,,
+"2360 Garbin Avenue,Richmond,Contra Costa County",37.673085,-122.109378,0.7,street_center,Hayward,CA,Alameda County,94541.0,97353.0,9368.0,38.5,6.1,0.349,0.065,0.0,0.508,0.0
+"Richmond Railyard, milepost marker 1189.3,Richmond,Contra Costa County",37.912211,-122.303675,0.9,street_center,El Cerrito,CA,Contra Costa County,94530.0,122750.0,31172.0,38.4,1.3,0.644,0.015,0.005,0.29,0.0
+"4301 Lakeside Dr, Construction Site,Richmond,Contra Costa County",37.988646,-122.3315,1.0,range_interpolation,San Pablo,CA,Contra Costa County,94806.0,68108.0,18288.0,29.2,1.6,0.301,0.307,0.0,0.07,0.046
+"1300 Block Pelican Way,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"520 Castro Street,Richmond,Contra Costa County",38.017731,-122.138529,1.0,range_interpolation,Martinez,CA,Contra Costa County,94553.0,35729.0,22499.0,42.4,3.4,0.608,0.236,0.0,0.037,0.0
+"1900 ESPLANDE DR, RICHMOND MARINA BOAT RAMP, NEAR SALUTE E VITA RESTAURANT,Richmond,Contra Costa County",37.915132,-122.351697,0.4,rooftop,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"4300 Cutting Blvd,Richmond,Contra Costa County",37.924643,-122.329434,0.95,rooftop,Richmond,CA,Contra Costa County,94804.0,54776.0,43909.0,47.5,12.6,0.142,0.51,0.0,0.319,0.0
+"200 Cutting Blvd,Richmond,Contra Costa County",37.92561,-122.367474,0.8,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"1015 Market Ave,Richmond,Contra Costa County",37.959939,-122.3585,1.0,rooftop,San Pablo,CA,Contra Costa County,94806.0,55625.0,23524.0,29.3,3.9,0.381,0.398,0.0,0.088,0.0
+"506 Tremont Ave,Richmond,Contra Costa County",37.927326,-122.39042,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"488 Wright Ave. ,Richmond,Contra Costa County",37.920165,-122.364452,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"East HWY 580, east of Richmond/ San Rafael Toll Plaza,Richmond,Contra Costa County",37.947523,-122.384032,0.5,place,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"2709 Barnard Street,Richmond,Contra Costa County",37.969765,-122.325062,1.0,rooftop,San Pablo,CA,Contra Costa County,94806.0,92188.0,21289.0,40.1,10.4,0.171,0.311,0.0,0.372,0.081
+"Parr Blvd , MP14.22 at Matinez subdivision,Richmond,Contra Costa County",37.919479,-121.951543,0.4,county,,CA,Contra Costa County,,,,,,,,,,
+"4480 Bell Ave,Richmond,Contra Costa County",37.921741,-122.327362,0.89,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,46279.0,15606.0,31.8,3.9,0.271,0.61,0.0,0.032,0.0
+"841 Chevron Way.,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"4949 Cypress Ave,Richmond,Contra Costa County",37.920383,-122.322555,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"3400 Richmond Parkway,Richmond,Contra Costa County",37.987714,-122.32378,0.9,rooftop,San Pablo,CA,Contra Costa County,94806.0,63938.0,12535.0,34.3,11.0,0.261,0.446,0.025,0.105,0.0
+"Parr Blvd, MP Martinez Subdivision 14.2,Richmond,Contra Costa County",37.968026,-122.368696,0.4,street_center,Richmond,CA,Contra Costa County,94801.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"MP 10.86, subdivision Martinez,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"WB I-80 JEO Central Ave,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"520 Castro St,Richmond,Contra Costa County",38.017731,-122.138529,1.0,range_interpolation,Martinez,CA,Contra Costa County,94553.0,35729.0,22499.0,42.4,3.4,0.608,0.236,0.0,0.037,0.0
+"MP 13.3 Martinez Sub,Richmond,Contra Costa County",37.931623,-122.366965,0.9,rooftop,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+"5310 Fallon Ave. and Campbell,Richmond,Contra Costa County",37.917667,-122.319475,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"Cutting Blvd at Carlson Blvd, MP 10.86, Martinez Sub Division,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"1 West Santa Fe Ave, Richmond Yard, Stockton Subdivision, MP1189.0, Track 9129,Pittsburg,Contra Costa County",38.027012,-121.889692,1.0,range_interpolation,Pittsburg,CA,Contra Costa County,94565.0,74148.0,9810.0,27.3,3.7,0.129,0.625,0.0,0.069,0.0
+"Close to 1095 Parkside Dr,Richmond,Contra Costa County",37.980405,-122.310013,0.9,nearest_rooftop_match,El Sobrante,CA,Contra Costa County,94803.0,88818.0,22868.0,48.4,4.4,0.141,0.386,0.0,0.443,0.0
+"1340 marina Way South,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"209 Parr Blvd,Richmond,Contra Costa County",37.967944,-122.369065,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"Richmond Channel, Pier RCH 12,Richmond,Contra Costa County",37.912211,-122.303675,0.9,street_center,El Cerrito,CA,Contra Costa County,94530.0,122750.0,31172.0,38.4,1.3,0.644,0.015,0.005,0.29,0.0
+"Near John F. McCarthy Bridge,Richmond,Contra Costa County",37.883947,-122.051415,1.0,street_center,Walnut Creek,CA,Contra Costa County,94596.0,85615.0,12565.0,31.7,0.8,0.661,0.062,0.0,0.21,0.0
+"36th St and Wall Ave,Richmond,Contra Costa County",37.928022,-122.335205,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"4700 Hartnette Ave,Richmond,Contra Costa County",37.916623,-122.32697,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"Intersection of Rheem Ave & 13th St,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"NP: 14.07 of the Martinez Sub, Brookside Drive & Giants Road,Richmond,Contra Costa County",37.960184,-122.35553,0.48,intersection,San Pablo,CA,Contra Costa County,94806.0,,,,,,,,,
+"Residential Area from S. 22nd St to S. 23rd St.,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"980 Hensley (parking lot near front gate),Richmond,Contra Costa County",37.94552,-122.366808,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"BNSF Diesel Service Facility, MP 1189,Richmond,Contra Costa County",37.919479,-121.951543,0.4,county,,CA,Contra Costa County,,,,,,,,,,
+"MP 12 Sub Martinez, Richmond AMTRAK Depot.,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"13th St.  Rheem Ave,Richmond,Contra Costa County",37.947047,-122.357187,1.0,street_center,Richmond,CA,Contra Costa County,94801.0,59188.0,28498.0,40.5,5.2,0.638,0.176,0.0,0.186,0.0
+"23rd Street & Cutting Boulevard,Richmond,Contra Costa County",37.925193,-122.347665,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Hartnett Ave x Carlson Ave,Richmond,Contra Costa County",37.917287,-122.325666,1.0,street_center,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"3rd Avenue & Pennsylvania Avenue,Richmond,Contra Costa County",37.940356,-122.36668,0.08,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"36th St x Wall Ave,Richmond,Contra Costa County",37.94327,-122.332853,0.9,street_center,Richmond,CA,Contra Costa County,94805.0,86451.0,39485.0,49.6,14.6,0.621,0.329,0.0,0.013,0.0
+"13th St x Costa St,Richmond,Contra Costa County",37.947047,-122.357187,1.0,street_center,Richmond,CA,Contra Costa County,94801.0,59188.0,28498.0,40.5,5.2,0.638,0.176,0.0,0.186,0.0
+"SF Bay Trail, Point Isabel Regional Park,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"3rd St. and Pensylvenia Ave.,Richmond,Contra Costa County",37.940356,-122.36668,0.28,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"South 23rd St & Cutting Blvd,Richmond,Contra Costa County",37.925193,-122.347665,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"36 TH St. and Wall Ave.,Richmond,Contra Costa County",37.928022,-122.335205,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"13th St. and Dunn Ave,Richmond,Contra Costa County",37.948845,-122.35722,0.83,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"441 Western Dr.,Richmond,Contra Costa County",37.925993,-122.391718,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"13th St. x Wright Ave.,Richmond,Contra Costa County",37.947047,-122.357187,1.0,street_center,Richmond,CA,Contra Costa County,94801.0,59188.0,28498.0,40.5,5.2,0.638,0.176,0.0,0.186,0.0
+"Boat Ramp Road X Cutting Blvd,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Marina Bay Pkwy and Meeker Ave,Richmond,Contra Costa County",37.920425,-122.347192,0.95,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"3rd and 301 Pennsylvania,Richmond,Contra Costa County",37.933194,-121.692151,0.3,street_center,Brentwood,CA,Contra Costa County,94513.0,107934.0,12360.0,34.4,1.8,0.426,0.099,0.0,0.359,0.0
+"1308 Pelican way,Richmond,Contra Costa County",37.911037,-122.380725,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"UPRR Martinez Subdivision, MP 14.22, Main Track 2, DOT Crossing 751694D,Richmond,Contra Costa County",37.930541,-122.348429,0.5,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,59840.0,16148.0,24.6,6.5,0.064,0.456,0.0,0.272,0.0
+"800 Wright Ave. ,Richmond,Contra Costa County",37.921718,-122.361285,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"2913 Alta Mira Dr.,Richmond,Contra Costa County",37.973083,-122.326605,1.0,rooftop,San Pablo,CA,Contra Costa County,94806.0,99063.0,22809.0,60.2,9.1,0.183,0.489,0.0,0.298,0.0
+"Isabel Road & Central Avenue,Richmond,Contra Costa County",37.896789,-122.321619,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Costa Street x 13th Street,Richmond,Contra Costa County",37.99141,-122.289921,0.9,street_center,Pinole,CA,Contra Costa County,94564.0,82857.0,38938.0,51.0,10.3,0.45,0.036,0.0,0.491,0.0
+"UPRR Martinez Subdivision, MP 10.86, Track 1, DOT Crossing 754678U,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"861 Wharf,Richmond,Contra Costa County",37.919771,-122.372476,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"2377 Garden Tract Rd.,Richmond,Contra Costa County",37.966832,-122.376261,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,55625.0,23524.0,29.3,3.9,0.381,0.398,0.0,0.088,0.0
+"4700 Hartnett Ave. ,Richmond,Contra Costa County",37.916623,-122.32697,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"2300 Cutting Blvd, Cutting and South 23rd,Richmond,Contra Costa County",37.924923,-122.347323,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,37214.0,13731.0,20.8,9.9,0.0,0.445,0.0,0.141,0.0
+"3601 Wall Ave intersection S. 36th St.,Richmond,Contra Costa County",37.928244,-122.335716,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"684 3rd St. intersection of Pennsylvania,Richmond,Contra Costa County",37.942137,-122.366412,0.3,rooftop,Richmond,CA,Contra Costa County,94801.0,57933.0,14262.0,28.1,3.1,0.026,0.638,0.034,0.063,0.0
+"MP 1187.19 Stockton Subdivision,Richmond,Contra Costa County",37.93718,-122.351362,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,77414.0,65268.0,29.6,4.8,0.187,0.612,0.0,0.162,0.0
+"Costa Ave and 13th St, 1144 13th St.,Richmond,Contra Costa County",37.950127,-122.356996,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,59188.0,28498.0,40.5,5.2,0.638,0.176,0.0,0.186,0.0
+"INTERSECTION OF CENTRAL ST & RYDIN ST; AT THE POINT ISABEL DOG PARK,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"3rd and Pennsylvania 305 Pennsylvania Ave,Richmond,Contra Costa County",37.940356,-122.36668,0.08,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"1320 Rheem Avenue,Richmond,Contra Costa County",37.949435,-122.357045,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,59188.0,28498.0,40.5,5.2,0.638,0.176,0.0,0.186,0.0
+"4700 Hartnett Ave ,Richmond,Contra Costa County",37.916623,-122.32697,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"3600 Wall Avenue,Richmond,Contra Costa County",37.927872,-122.335205,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"2301 Cutting Boulevard,Richmond,Contra Costa County",37.924923,-122.347323,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,37214.0,13731.0,20.8,9.9,0.0,0.445,0.0,0.141,0.0
+"1300 Canal Blvd.,Richmond,Contra Costa County",37.912224,-122.365991,0.85,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"MP 14.1 of the Martinez Sub,Richmond,Contra Costa County",37.969059,-121.666358,0.9,nearest_rooftop_match,Knightsen,CA,Contra Costa County,94548.0,54177.0,50349.0,32.2,9.1,0.496,0.504,0.0,0.0,0.0
+"3411 Blume Dr.,Richmond,Contra Costa County",37.986722,-122.317866,1.0,rooftop,San Pablo,CA,Contra Costa County,94806.0,0.0,0.0,28.6,3.6,0.267,0.166,0.0,0.447,0.0
+"1601 Atlas Road, Stockton Subdivision, UPS north Bay Ramp, MP1184.85,Richmond,Contra Costa County",37.996643,-122.341595,0.9,rooftop,San Pablo,CA,Contra Costa County,94806.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"400 W. Gertrude Ave,Richmond,Contra Costa County",37.954886,-122.374426,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,106500.0,43340.0,37.3,5.7,0.0,0.651,0.0,0.319,0.019
+"Marina way S. at Pierson Ave.,Richmond,Contra Costa County",37.917459,-122.355923,0.92,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Carlson Blvd Hartnett Ave,Richmond,Contra Costa County",37.972374,-122.00407,0.95,street_center,Concord,CA,Contra Costa County,94519.0,78333.0,45488.0,50.8,7.4,0.592,0.0,0.0,0.298,0.0
+"3rd St and Pensulvania Ave,Richmond,Contra Costa County",37.940356,-122.36668,0.28,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"13th and Costa,Richmond,Contra Costa County",37.949587,-122.357174,0.63,intersection,San Pablo,CA,Contra Costa County,94806.0,,,,,,,,,
+"37th St and Wall Ave,Richmond,Contra Costa County",37.928052,-122.334367,0.79,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"South 23rd and Cutting Blvd,Richmond,Contra Costa County",37.925193,-122.347665,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"2755 Isabelle St,Richmond,Contra Costa County",37.897055,-122.32188,0.95,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"Hoffman Marsh,Richmond,Contra Costa County",37.889081,-121.673338,1.0,street_center,Brentwood,CA,Contra Costa County,94513.0,82708.0,36360.0,31.8,9.5,0.922,0.028,0.014,0.031,0.0
+"Near 800 Whars St.,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Outside Marina Bay Yacht Club,Richmond,Contra Costa County",37.919479,-121.951543,0.4,county,,CA,Contra Costa County,,,,,,,,,,
+"Milepost marker 15 of the Martinez subdivision,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"418 S. 35th St,Richmond,Contra Costa County",37.926442,-122.335947,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"1340 Marina Way South, D- Dock, Slip  109,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"Milepost marker 14.3 of the Martinez subdivision,Richmond,Contra Costa County",37.931623,-122.366965,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+"Cutting Blvd and Carlson Blvd,Richmond,Contra Costa County",37.925173,-122.338017,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Chevron Long Wharf Terminal, 37° 55' 16"" N, 122° 24' 35"" W,Richmond,Contra Costa County",37.920566,-122.318521,0.6,street_center,El Cerrito,CA,Contra Costa County,94530.0,78224.0,27563.0,32.5,3.8,0.193,0.075,0.02,0.697,0.0
+"Phillips 66 Fuel Dock - 1300 Canal Blvd.,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"1370 Marin Ave,Richmond,Contra Costa County",37.888246,-122.288583,1.0,rooftop,Albany,CA,Alameda County,94706.0,102038.0,30487.0,44.9,4.3,0.67,0.0,0.0,0.28,0.0
+"700 West Cutting Blvd., San Pablo Yacht Club,Richmond,Contra Costa County",37.923958,-122.376693,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"700 Julia Wood St,Richmond,Contra Costa County",37.987243,-122.283398,0.7,street_center,Pinole,CA,Contra Costa County,94564.0,129188.0,23795.0,49.1,11.7,0.672,0.039,0.0,0.181,0.0
+"near 1214 Parkway Ave,Richmond,Contra Costa County",37.980642,-122.31238,0.67,rooftop,El Sobrante,CA,Contra Costa County,94803.0,88818.0,22868.0,48.4,4.4,0.141,0.386,0.0,0.443,0.0
+"3900 Lakeside Drive,Richmond,Contra Costa County",37.985417,-122.332363,1.0,rooftop,San Pablo,CA,Contra Costa County,94806.0,68108.0,18288.0,29.2,1.6,0.301,0.307,0.0,0.07,0.046
+"512 West Ohio Avenue,Richmond,Contra Costa County",0.0,0.0,0.0,,,,,,,,,,,,,,
+"105 Brookside Drive,Richmond,Contra Costa County",37.98477,-121.803116,1.0,range_interpolation,Antioch,CA,Contra Costa County,94509.0,61404.0,34901.0,28.8,11.9,0.325,0.367,0.0,0.04,0.0
+"MP 14.07 on Martinez Sub @ Brookside Drive Crossing,Richmond,Contra Costa County",37.960184,-122.35553,0.59,intersection,San Pablo,CA,Contra Costa County,94806.0,,,,,,,,,
+"MP 10.8 Martinez Sub,Richmond,Contra Costa County",37.931479,-122.361695,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,32917.0,20655.0,53.3,16.4,0.059,0.727,0.0,0.14,0.0
+"Macdonald Ave. x San Pablo Ave,Richmond,Contra Costa County",37.9354,-122.344181,0.9,street_center,Richmond,CA,Contra Costa County,94801.0,12675.0,2281.0,40.4,8.2,0.211,0.686,0.0,0.046,0.0
+"NEAR BRICKYARD COVE MARINA,Richmond,Contra Costa County",37.883947,-122.051415,0.4,street_center,Walnut Creek,CA,Contra Costa County,94596.0,85615.0,12565.0,31.7,0.8,0.661,0.062,0.0,0.21,0.0
+"1314 CANAL BLVD,Richmond,Contra Costa County",37.912224,-122.365991,0.85,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"3435 Regatta Blvd.,Richmond,Contra Costa County",37.91877,-122.335096,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,37214.0,13731.0,20.8,9.9,0.0,0.445,0.0,0.141,0.0
+"841 Chevron way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Richmond Chevron Refinery, 841 Chevron Way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Brickyard Cove Road x Dornan Drive,Richmond,Contra Costa County",37.910857,-122.383895,0.95,street_center,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Chesley Ave. and 7th Street.,Richmond,Contra Costa County",37.954746,-122.361613,1.0,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"Market Ave Crossing,Richmond,Contra Costa County",37.958915,-122.356195,0.9,street_center,San Pablo,CA,Contra Costa County,94806.0,56964.0,24764.0,25.9,6.1,0.294,0.411,0.049,0.13,0.012
+"2131 McDonald Street ,Richmond,Contra Costa County",37.935983,-122.348802,0.7,rooftop,Richmond,CA,Contra Costa County,94801.0,77414.0,65268.0,29.6,4.8,0.187,0.612,0.0,0.162,0.0
+"38 Washington Street,Richmond,Contra Costa County",37.92752,-122.384632,0.95,rooftop,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"1306 Canal BLVD,Richmond,Contra Costa County",37.912224,-122.365991,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"1140 Canal Blvd,Richmond,Contra Costa County",37.917713,-122.369026,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"I-580, East end of the bridge,Richmond,Contra Costa County",37.887843,-122.30864,0.6,street_center,Albany,CA,Alameda County,94706.0,102344.0,32538.0,39.5,6.9,0.469,0.27,0.038,0.195,0.0
+"Tank Field, 841 Chevron Way, Chevron Richmond Refinery,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"MPM 14.1 of the Martinez Sub, Brookside Dr Crossing,Richmond,Contra Costa County",37.969059,-121.666358,0.9,nearest_rooftop_match,Knightsen,CA,Contra Costa County,94548.0,54177.0,50349.0,32.2,9.1,0.496,0.504,0.0,0.0,0.0
+"841 Chevron Way, TKC HydroProcessing Plant,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"EB 580 at the 23rd or Marina Bay Parkway Onramp,Richmond,Contra Costa County",37.939704,-122.347361,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,12675.0,2281.0,40.4,8.2,0.211,0.686,0.0,0.046,0.0
+"901 West Cutting Blvd.,Richmond,Contra Costa County",37.92567,-122.378645,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"337 44th St.,Richmond,Contra Costa County",37.933742,-122.328309,1.0,rooftop,Richmond,CA,Contra Costa County,94805.0,110515.0,33645.0,35.2,9.8,0.269,0.18,0.0,0.526,0.0
+"3rd St x Macdonald Ave,Richmond,Contra Costa County",37.933194,-121.692151,0.9,street_center,Brentwood,CA,Contra Costa County,94513.0,107934.0,12360.0,34.4,1.8,0.426,0.099,0.0,0.359,0.0
+"13th St and Dunn Ave,Richmond,Contra Costa County",37.948845,-122.35722,0.83,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"36st And Wall Ave,Richmond,Contra Costa County",37.928022,-122.335205,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"3rd Street and Pennsylvania Ave,Richmond,Contra Costa County",37.940356,-122.36668,0.28,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"33rd and Leona Ave,Richmond,Contra Costa County",37.932287,-122.338295,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"1300 Costa Ave,Richmond,Contra Costa County",37.950101,-122.356718,1.0,rooftop,San Pablo,CA,Contra Costa County,94806.0,59188.0,28498.0,40.5,5.2,0.638,0.176,0.0,0.186,0.0
+"608 South 49th St,Richmond,Contra Costa County",37.923833,-122.3233,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,54776.0,43909.0,47.5,12.6,0.142,0.51,0.0,0.319,0.0
+"3rd St x Pennsylvania Ave,Richmond,Contra Costa County",37.933194,-121.692151,0.3,street_center,Brentwood,CA,Contra Costa County,94513.0,107934.0,12360.0,34.4,1.8,0.426,0.099,0.0,0.359,0.0
+"36th Street and Wall Avenue,Richmond,Contra Costa County",37.928022,-122.335205,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"3300 Leona Avenue,Richmond,Contra Costa County",37.932625,-122.33863,0.7,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"13th St x Rheem St,Richmond,Contra Costa County",37.947047,-122.357187,1.0,street_center,Richmond,CA,Contra Costa County,94801.0,59188.0,28498.0,40.5,5.2,0.638,0.176,0.0,0.186,0.0
+"MP 1170.6 of the Stockton Subdivision,Richmond,Contra Costa County",38.02938,-122.267089,0.7,street_center,Rodeo,CA,Contra Costa County,94572.0,82375.0,40723.0,33.6,4.3,0.27,0.238,0.0,0.365,0.11
+"37 54.7 N | 122 25.0 W, ,Richmond,Contra Costa County",38.028174,-122.265778,0.9,nearest_rooftop_match,Rodeo,CA,Contra Costa County,94572.0,82375.0,40723.0,33.6,4.3,0.27,0.238,0.0,0.365,0.11
+"5709 Bay View Ave,Richmond,Contra Costa County",37.91542,-122.315262,0.8,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,64191.0,36477.0,31.9,2.8,0.58,0.051,0.0,0.246,0.0
+"5814 Sutter Ave,Richmond,Contra Costa County",37.908151,-122.310786,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,114706.0,25526.0,45.6,5.1,0.628,0.049,0.0,0.184,0.0
+"Nevin Ave at A St,Richmond,Contra Costa County",37.936827,-122.369427,0.92,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"4700 Hartnet Ave,Richmond,Contra Costa County",37.916623,-122.32697,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,37667.0,19582.0,33.4,3.7,0.106,0.664,0.0,0.128,0.013
+"SOUTH 23RD STREET AND CUTTING BLVD,Richmond,Contra Costa County",37.925193,-122.347665,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"36th Street and Wall Ave,Richmond,Contra Costa County",37.928022,-122.335205,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"33rd Street and Leona Ave,Richmond,Contra Costa County",37.932287,-122.338295,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"3rd Street and Pennsylvania Ave ,Richmond,Contra Costa County",37.940356,-122.36668,0.28,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"13th Street and Dunn Ave ,Richmond,Contra Costa County",37.948845,-122.35722,0.83,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"5831 Alpine Rd,Richmond,Contra Costa County",37.955431,-122.324606,0.9,rooftop,San Pablo,CA,Contra Costa County,94806.0,115000.0,28424.0,45.0,11.7,0.685,0.094,0.0,0.117,0.0
+"810 Wright Ave ,Richmond,Contra Costa County",37.920578,-122.361404,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"Near Bay Marine,Richmond,Contra Costa County",37.883947,-122.051415,0.4,street_center,Walnut Creek,CA,Contra Costa County,94596.0,85615.0,12565.0,31.7,0.8,0.661,0.062,0.0,0.21,0.0
+"EB 580 at Canal Blvd,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"EB I-580 & Richmond Parkway (Harbor Way),Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"MP 8.62 Martinez Sub,Richmond,Contra Costa County",37.844517,-122.285655,0.7,street_center,Emeryville,CA,Alameda County,94608.0,84784.0,55327.0,34.3,4.8,0.575,0.394,0.0,0.031,0.0
+"Marina Bay & Regatta,Richmond,Contra Costa County",37.917459,-122.355923,0.76,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"731 West Cutting Blvd.,Richmond,Contra Costa County",37.926096,-122.37681,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"1340 Marina Way South, Boat Slip: E348,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"798 Juliga Woods,Richmond,Contra Costa County",37.922262,-122.336054,0.72,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,37214.0,13731.0,20.8,9.9,0.0,0.445,0.0,0.141,0.0
+"1340 Marina Wy South,Richmond,Contra Costa County",37.95334,-122.324426,0.2,rooftop,San Pablo,CA,Contra Costa County,94806.0,68523.0,17649.0,34.2,5.0,0.512,0.203,0.0,0.24,0.0
+"WB HWY 80 just East of Central Mile Post .101,Richmond,Contra Costa County",37.732674,-122.237103,0.1,street_center,Alameda,CA,Alameda County,94502.0,199962.0,31010.0,37.6,5.1,0.384,0.067,0.0,0.462,0.023
+"Channel Marina on Cutting Blvd,Richmond,Contra Costa County",37.901082,-121.586907,0.3,street_center,Discovery Bay,CA,Contra Costa County,94505.0,139643.0,29174.0,56.9,6.4,0.868,0.008,0.008,0.107,0.0
+"MPM 10.5 on the Martinez Sub Div// Nearest cross streets are South 47Th and Carlson Blvd.,Richmond,Contra Costa County",37.728485,-121.94583,0.7,rooftop,San Ramon,CA,Contra Costa County,94583.0,198800.0,73261.0,38.3,12.7,0.329,0.007,0.0,0.605,0.0
+"1319 D Canal Blvd.,Richmond,Contra Costa County",37.907843,-122.369544,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"940 Hensley St,Richmond,Contra Costa County",37.944823,-122.368456,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"34th St at Erlandson St, Golden Gate Fuel Station,Richmond,Contra Costa County",37.922457,-122.336743,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"800 WHARF ST,Richmond,Contra Costa County",37.918852,-122.374324,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Atlas Rd and Oakmont Rd, closest address: 1801 Atlas Rd,Richmond,Contra Costa County",37.947523,-122.384032,0.5,place,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"1905 Tulare Ave,Richmond,Contra Costa County",37.939018,-122.314792,0.9,rooftop,Richmond,CA,Contra Costa County,94805.0,117024.0,45554.0,56.3,4.3,0.617,0.05,0.0,0.271,0.0
+"Port of Richmond 1317 Canal Blvd. Pier 3,Richmond,Contra Costa County",37.907843,-122.369544,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"814 Chevron way.,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"3200 Regatta Blvd,Richmond,Contra Costa County",37.915843,-122.340199,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,142134.0,27685.0,49.3,12.4,0.324,0.358,0.01,0.214,0.0
+"Richmond-San Rafael Bridge (Interstate 580 Eastbound,Richmond,Contra Costa County",37.913879,-122.304704,1.0,street_center,El Cerrito,CA,Contra Costa County,94530.0,159667.0,69948.0,47.4,6.4,0.511,0.013,0.0,0.354,0.0
+"IMTT-fuel dock,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Heading to Chevron Pier, San Francisco Bay, Towards San Raffel Bridge,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"1 Parr Blvd, San Pablo Bay, Back/North side of the land fill,Richmond,Contra Costa County",37.962334,-122.39602,0.91,rooftop,Richmond,CA,Contra Costa County,94801.0,55625.0,23524.0,29.3,3.9,0.381,0.398,0.0,0.088,0.0
+"MP 13.59 at the Martinez Sub,Richmond,Contra Costa County",37.842295,-122.281115,0.7,street_center,Emeryville,CA,Alameda County,94608.0,102750.0,62211.0,39.1,9.3,0.637,0.115,0.0,0.078,0.0
+"RR crossing at Carlson Blvd & Cutting Blvd ,Richmond,Contra Costa County",37.986336,-121.725183,1.0,street_center,Oakley,CA,Contra Costa County,94561.0,128808.0,58540.0,36.5,8.4,0.799,0.096,0.0,0.0,0.0
+"Between the Richmond pump station and Avon Pump station  on the Bay Area product line a 20 mile area,Unincorporated county area Contra Costa,Contra Costa County",37.919479,-121.951543,0.4,county,,CA,Contra Costa County,,,,,,,,,,
+"270 West Cutting Blvd.,Richmond,Contra Costa County",37.925112,-122.371423,0.9,range_interpolation,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Central Ave overpass west of Jacuzzi street,Richmond,Contra Costa County",37.96413,-122.369705,0.9,street_center,Richmond,CA,Contra Costa County,94801.0,55625.0,23524.0,29.3,3.9,0.381,0.398,0.0,0.088,0.0
+"Oxford Ave,Richmond,Contra Costa County",37.972206,-122.335719,1.0,street_center,San Pablo,CA,Contra Costa County,94806.0,42241.0,14061.0,31.3,6.6,0.087,0.594,0.0,0.174,0.049
+"Richmond Mile Post 14.3,Richmond,Contra Costa County",37.931623,-122.366965,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+"3411 Blum Dr,Richmond,Contra Costa County",37.986722,-122.317866,0.9,rooftop,San Pablo,CA,Contra Costa County,94806.0,0.0,0.0,28.6,3.6,0.267,0.166,0.0,0.447,0.0
+"EB I- 580,Richmond,Contra Costa County",37.928749,-122.390207,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"East Bound 580, Just West of the Toll Plaza,Richmond,Contra Costa County",37.732674,-122.237103,0.7,street_center,Alameda,CA,Alameda County,94502.0,199962.0,31010.0,37.6,5.1,0.384,0.067,0.0,0.462,0.023
+"Brookside Dr and Giant Road in Martinez sub division at mile post 14.315-7356,Richmond,Contra Costa County",37.964556,-122.356907,0.34,intersection,San Pablo,CA,Contra Costa County,94806.0,,,,,,,,,
+" 23rd Street at Barrett Ave,Richmond,Contra Costa County",37.938468,-122.347523,0.91,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Amador Street / Flannel Street ,Richmond,Contra Costa County",37.942912,-122.323072,1.0,street_center,Richmond,CA,Contra Costa County,94805.0,154306.0,39107.0,39.2,3.7,0.542,0.105,0.008,0.215,0.0
+"825 8th st,Richmond,Contra Costa County",37.944933,-122.362089,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,36359.0,22278.0,38.3,9.6,0.0,1.0,0.0,0.0,0.0
+"580 East Bound, Exit 7,Richmond,Contra Costa County",37.776615,-121.900103,0.88,nearest_rooftop_match,San Ramon,CA,Contra Costa County,94582.0,250001.0,0.0,42.5,2.5,0.161,0.0,0.0,0.782,0.019
+"Latitude: 37° 54' 29"" N, Longitude: 122° 23' 12"" W, END OF DORNAN DR., POINT RICHMOND/RICHMOND 1,Richmond,Contra Costa County",37.826198,-122.268935,0.9,street_center,Oakland,CA,Alameda County,94609.0,0.0,0.0,29.9,9.8,0.646,0.156,0.0,0.101,0.028
+"EB 80 JWO El Portal,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Pt. Isabel Waste Water Treatment Plant @ 2755 Isabel St.,Richmond,Contra Costa County",37.90854,-121.60023,0.5,place,Discovery Bay,CA,Contra Costa County,94505.0,,,,,,,,,
+"LEVIN TERMINAL,Richmond,Contra Costa County",37.565285,-121.982721,0.5,place,Fremont,CA,Alameda County,94536.0,,,,,,,,,
+"500 Block of West Cutting Blvd. cross street: Hoffman,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"1095 Parkside Drive,Richmond,Contra Costa County",37.980405,-122.310013,0.9,nearest_rooftop_match,El Sobrante,CA,Contra Costa County,94803.0,88818.0,22868.0,48.4,4.4,0.141,0.386,0.0,0.443,0.0
+"Latitude: 37° 57' 14"" N, Longitude: 122° 26' 56"" W,Richmond,Contra Costa County",37.915968,-122.315452,0.6,street_center,Richmond,CA,Contra Costa County,94804.0,64191.0,36477.0,31.9,2.8,0.58,0.051,0.0,0.246,0.0
+"Keller Beach,Richmond,Contra Costa County",37.952856,-121.920962,1.0,street_center,Clayton,CA,Contra Costa County,94517.0,154550.0,51479.0,38.9,10.8,0.592,0.0,0.0,0.285,0.0
+"BAYMARINE BOATWORKS ,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Point Pinole / San Pablo Bay,Richmond,Contra Costa County",37.90854,-121.60023,0.5,place,Discovery Bay,CA,Contra Costa County,94505.0,,,,,,,,,
+"3411 Bloom Dr,Richmond,Contra Costa County",37.986722,-122.317866,0.9,rooftop,San Pablo,CA,Contra Costa County,94806.0,0.0,0.0,28.6,3.6,0.267,0.166,0.0,0.447,0.0
+"MP 10.8 on the Martinez Sub - Cutting Blvd @ Carlson Blvd,Richmond,Contra Costa County",38.011335,-121.813013,0.9,street_center,Antioch,CA,Contra Costa County,94509.0,76250.0,47526.0,46.2,13.2,0.571,0.122,0.0,0.307,0.0
+"841 Chevron Way @ Richmond Long Wharf,Richmond,Contra Costa County",37.92948,-122.386683,0.8,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Hill View Dr near Hilltop Dr,Richmond,Contra Costa County",37.997123,-122.281248,1.0,street_center,Pinole,CA,Contra Costa County,94564.0,129188.0,23795.0,49.1,11.7,0.672,0.039,0.0,0.181,0.0
+"Sugar Dock 800 Wharf St, House boat docked at the southern most slip at the dock near the R/V Kaisei,Point Richmond,Contra Costa County",37.918852,-122.374324,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Castro St at Richmond Parkway,Richmond,Contra Costa County",37.928044,-122.388127,0.8,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"CASTRO STREET AT RICHMOND PARKWAY,Richmond,Contra Costa County",37.928044,-122.388127,0.8,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"Milepost 12.4 of the Martinez Subdivision in Richmond,Richmond,Contra Costa County",38.033414,-122.264963,0.1,street_center,Rodeo,CA,Contra Costa County,94572.0,48902.0,26960.0,30.7,9.0,0.277,0.36,0.0,0.169,0.0
+"MP 13.59 on the Martinez subdivision,Richmond,Contra Costa County",37.842295,-122.281115,0.7,street_center,Emeryville,CA,Alameda County,94608.0,102750.0,62211.0,39.1,9.3,0.637,0.115,0.0,0.078,0.0
+"San Pablo Bay (Off the 580 Bridge),Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"EB I 80 x Richmond Parkway Exit,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Westbound I-580 at Canal Blvd.,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Mile Post 14.6 of the Martinez subdivision,Richmond,Contra Costa County",37.931508,-122.3636,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+"SAN PABLO CREEK,Richmond,Contra Costa County",37.845993,-122.105078,1.0,street_center,Moraga,CA,Contra Costa County,94556.0,227727.0,50636.0,31.6,10.8,0.662,0.022,0.002,0.223,0.021
+"789 18TH ST,Richmond,Contra Costa County",37.943677,-122.352222,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,82853.0,33025.0,25.2,3.9,0.645,0.112,0.0,0.182,0.0
+"303 South Garrard Blvd,Richmond,Contra Costa County",37.933892,-122.377516,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Hilltop Rd. just north of I80,Richmond,Contra Costa County",37.989788,-122.118418,0.9,street_center,Martinez,CA,Contra Costa County,94553.0,145920.0,17833.0,40.5,2.6,0.74,0.033,0.014,0.096,0.0
+" 1140 Canal Blvd, Kinder Morgan, MP 1191.11 Stockton Sub,Richmond,Contra Costa County",37.917713,-122.369026,0.4,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"3/4 of mile north of Chevron refinery, between point Richmond and San Quentin,Richmond,Contra Costa County",38.160354,-121.613657,0.1,nearest_rooftop_match,Isleton,CA,Sacramento County,95641.0,49028.0,33801.0,51.1,11.8,0.895,0.02,0.0,0.053,0.0
+"North of Point Molate, East of Brother Light House,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"8410 Chevron Way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Terminal #2,Richmond,Contra Costa County",37.925461,-122.384637,0.9,rooftop,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"2300 Aberdeen Wy,Richmond,Contra Costa County",37.97409,-122.34215,0.13,nearest_rooftop_match,San Pablo,CA,Contra Costa County,94806.0,42241.0,14061.0,31.3,6.6,0.087,0.594,0.0,0.174,0.049
+"100 Hall Ave, Slip F199,Richmond,Contra Costa County",37.865511,-122.154107,0.95,range_interpolation,Orinda,CA,Contra Costa County,94563.0,235458.0,56195.0,52.0,10.3,0.762,0.011,0.0,0.135,0.0
+"1317 Canal Blvd, Basin #3,Richmond,Contra Costa County",37.907843,-122.369544,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Point Potrero Marina,Richmond,Contra Costa County",0.0,0.0,0.0,,,,,,,,,,,,,,
+"Kinder Morgan Richmond Terminal,  1140 Canal Blvd,Richmond,Contra Costa County",37.917713,-122.369026,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"488 Wright Ave, Terminal 22,Richmond,Contra Costa County",37.920165,-122.364452,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"MP 12.7 on the Martinez Sub, near 13th Street and Esmond Avenue,Richmond,Contra Costa County",37.942109,-122.358154,0.48,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"MPM 13 Martinez Sub Div,Richmond,Contra Costa County",37.579841,-121.984326,0.9,range_interpolation,Fremont,CA,Alameda County,94536.0,155473.0,32092.0,42.1,11.4,0.574,0.0,0.0,0.386,0.0
+"MP 1188.5 of the Stockton sub,Richmond,Contra Costa County",37.966979,-122.024926,0.69,nearest_rooftop_match,Concord,CA,Contra Costa County,94518.0,98621.0,41685.0,35.8,5.9,0.532,0.0,0.0,0.223,0.0
+"Channel St at Isomax St, North Yard, ,Richmond,Contra Costa County",37.901082,-121.586907,0.86,street_center,Discovery Bay,CA,Contra Costa County,94505.0,139643.0,29174.0,56.9,6.4,0.868,0.008,0.008,0.107,0.0
+"MP 1184.5 Stockton Sub,Richmond,Contra Costa County",37.966979,-122.024926,0.69,nearest_rooftop_match,Concord,CA,Contra Costa County,94518.0,98621.0,41685.0,35.8,5.9,0.532,0.0,0.0,0.223,0.0
+"Richmond Rail Yard,Richmond,Contra Costa County",37.539713,-122.001619,0.9,street_center,Fremont,CA,Alameda County,94536.0,119545.0,21353.0,43.5,3.4,0.451,0.032,0.0,0.449,0.005
+"33rd St and Leona Ave,Richmond,Contra Costa County",37.932287,-122.338295,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Nevin Ave and A St.,Richmond,Contra Costa County",37.936827,-122.369427,0.92,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"35th Street and Wall Ave,Richmond,Contra Costa County",37.928018,-122.336108,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"South 23rd Street and Cutting Blvd,Richmond,Contra Costa County",37.925193,-122.347665,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Harbour Way and Wright Ave,Richmond,Contra Costa County",37.921195,-122.36006,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"2118 Carlson Blvd,Richmond,Contra Costa County",37.90873,-122.308889,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,86078.0,20727.0,39.5,12.5,0.695,0.03,0.0,0.15,0.0
+"1140 Canal Avenue,Richmond,Contra Costa County",37.917713,-122.369026,0.7,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"1921 San Joaquin St,Richmond,Contra Costa County",37.907029,-122.318081,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,81364.0,52019.0,38.1,4.0,0.342,0.342,0.0,0.187,0.0
+"Point San Pablo,Richmond,Contra Costa County",37.90854,-121.60023,0.5,place,Discovery Bay,CA,Contra Costa County,94505.0,,,,,,,,,
+"Unknown Sheen Incident, Richmond Inner Harbor,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"3500 Bissell Avenue,Richmond,Contra Costa County",37.933186,-122.336023,1.0,rooftop,Richmond,CA,Contra Costa County,94805.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"2000 Hoffman Blvd,Richmond,Contra Costa County",37.922379,-122.350557,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"EB 80 on the Central Off Ramp,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"631 18th St,Richmond,Contra Costa County",37.941106,-122.352761,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,82853.0,33025.0,25.2,3.9,0.645,0.112,0.0,0.182,0.0
+"800 Nevin Ave.,Richmond,Contra Costa County",37.936676,-122.361853,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+"4400 Macdonald Ave.,Richmond,Contra Costa County",37.933156,-122.327737,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94805.0,110515.0,33645.0,35.2,9.8,0.269,0.18,0.0,0.526,0.0
+"Near Point Pinola Regional Park: Lat 37 59' 50"" N  Long  122 22' 34"" W ,Richmond,Contra Costa County",37.924443,-122.32282,0.6,street_center,Richmond,CA,Contra Costa County,94804.0,54776.0,43909.0,47.5,12.6,0.142,0.51,0.0,0.319,0.0
+"13th Street x Pennsylvania Ave,Richmond,Contra Costa County",37.947047,-122.357187,0.4,street_center,Richmond,CA,Contra Costa County,94801.0,59188.0,28498.0,40.5,5.2,0.638,0.176,0.0,0.186,0.0
+"501 Canal BLvd cross of West Cutting Blvd,Richmond,Contra Costa County",37.92446,-122.379482,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"3201 Leona Ave (Lavonya Dejean),Richmond,Contra Costa County",37.932625,-122.33863,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"1314 Canal Blvd, Richmond 3 Dock,Richmond,Contra Costa County",37.912224,-122.365991,0.85,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"915 Eight St.,Richmond,Contra Costa County",37.946507,-122.362075,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,36359.0,22278.0,38.3,9.6,0.0,1.0,0.0,0.0,0.0
+"901 Nevin Ave.,Richmond,Contra Costa County",37.937381,-122.360975,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,0.0,0.0,25.7,10.0,0.028,0.474,0.0,0.417,0.0
+"Marina Bay Dock Harbor,Richmond,Contra Costa County",37.922602,-122.34771,1.0,street_center,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"1340 Marina Way South, Slips E-370A/E-359, Marina Bay Yacht Harbor,Richmond,Contra Costa County",37.917326,-122.355774,0.4,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"1921 San Joaquin Street,Richmond,Contra Costa County",37.907029,-122.318081,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,81364.0,52019.0,38.1,4.0,0.342,0.342,0.0,0.187,0.0
+"32 Chesley Ave,Richmond,Contra Costa County",37.95453,-122.369911,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,106500.0,43340.0,37.3,5.7,0.0,0.651,0.0,0.319,0.019
+"Pittsburgh Ave at Central Ave,Richmond,Contra Costa County",37.96309,-122.36987,0.67,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"4th Street at Silver Street,Richmond,Contra Costa County",37.957428,-122.365118,0.71,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"Latitude: 37° 54' 45"" N Longitude: 122° 21' 00"" W,   250  SLIP DOCK.  175 VESSELS. 6 ACRE DOCK.  MARINA 0.5 SQ MILES @ 2600 Spinnaker Way,Richmond,Contra Costa County",0.0,0.0,0.0,,,,,,,,,,,,,,
+"Slip F-104, F-Dock, Marina Bay Yacht Harbor,  1340 Marina Way South,Richmond,Contra Costa County",0.0,0.0,0.0,,,,,,,,,,,,,,
+"MP 13.5 of the Martinez Sub,Richmond,Contra Costa County",37.728394,-121.946034,0.7,nearest_rooftop_match,San Ramon,CA,Contra Costa County,94583.0,198800.0,73261.0,38.3,12.7,0.329,0.007,0.0,0.605,0.0
+"321 Tunnel Ave,Richmond,Contra Costa County",37.924282,-122.385219,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Richmond Long Wharf,Richmond,Contra Costa County",37.912211,-122.303675,0.9,street_center,El Cerrito,CA,Contra Costa County,94530.0,122750.0,31172.0,38.4,1.3,0.644,0.015,0.005,0.29,0.0
+"731 W Cutting Blvd,Richmond,Contra Costa County",37.926096,-122.37681,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"700 W. Cutting Blvd., ""Ricmond"",Richmond,Contra Costa County",37.923958,-122.376693,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Martinez Subdivision, MP 8.64,Richmond,Contra Costa County",37.844326,-122.291884,0.7,street_center,Emeryville,CA,Alameda County,94608.0,126375.0,47026.0,37.4,1.6,0.373,0.127,0.0,0.478,0.0
+"4801 Central Avenue, Costco,Richmond,Contra Costa County",37.546862,-122.012065,0.9,rooftop,Fremont,CA,Alameda County,94536.0,123304.0,107611.0,33.2,7.3,0.289,0.005,0.0,0.67,0.0
+"21 Lighthouse Ln,Richmond,Contra Costa County",37.908991,-122.342739,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,142134.0,27685.0,49.3,12.4,0.324,0.358,0.01,0.214,0.0
+"Richmond Inner Harbor, Near Pier 2,Richmond,Contra Costa County",37.539713,-122.001619,0.9,street_center,Fremont,CA,Alameda County,94536.0,119545.0,21353.0,43.5,3.4,0.451,0.032,0.0,0.449,0.005
+"1316 Canal Blvd.,Richmond,Contra Costa County",37.907843,-122.369544,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"20 Light House Lane,Richmond,Contra Costa County",38.00307,-121.917219,0.5,place,Pittsburg,CA,Contra Costa County,94565.0,,,,,,,,,
+"2 Miles SE of 5755 McBryde Ave, Belgum Trail,Richmond,Contra Costa County",37.821721,-122.192454,0.8,rooftop,Oakland,CA,Alameda County,94611.0,168913.0,58813.0,44.8,5.2,0.655,0.101,0.0,0.107,0.023
+"Berth 8 (Car carrier terminal),Richmond,Contra Costa County",37.919479,-121.951543,0.95,county,,CA,Contra Costa County,,,,,,,,,,
+"2785 Goodrick Ave,Richmond,Contra Costa County",37.973321,-122.367009,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"2658 Mira Vista Drive,Richmond,Contra Costa County",37.938958,-122.313653,0.9,rooftop,Richmond,CA,Contra Costa County,94805.0,117024.0,45554.0,56.3,4.3,0.617,0.05,0.0,0.271,0.0
+"Chevron Refinery Richmond - 841 Chevron Way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Onramp and Offramp at Carlslon Blvd to Eastbound Interstate 80. Some buildings near the accident site were evacuated.,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"1740  Giaramata St,Richmond,Contra Costa County",37.958268,-122.363049,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,55625.0,23524.0,29.3,3.9,0.381,0.398,0.0,0.088,0.0
+"801 Griffin Street,Richmond,Contra Costa County",37.794673,-121.885228,0.76,rooftop,Danville,CA,Contra Costa County,94506.0,250001.0,0.0,43.0,2.5,0.274,0.04,0.0,0.656,0.007
+"Foods Co. - 1250 McDonald,Richmond,Contra Costa County",37.999406,-122.301826,1.0,rooftop,Pinole,CA,Contra Costa County,94564.0,98852.0,22309.0,40.3,14.9,0.418,0.109,0.0,0.378,0.0
+"End of Wharf St at Canal St,Richmond,Contra Costa County",37.885671,-122.304394,0.9,street_center,Albany,CA,Alameda County,94706.0,90560.0,23137.0,28.7,0.7,0.499,0.0,0.0,0.433,0.0
+"Point Richmond, Richmond Inner Harbor,Richmond,Contra Costa County",37.90854,-121.60023,0.5,place,Discovery Bay,CA,Contra Costa County,94505.0,,,,,,,,,
+"230 W Cutting Blvd Richmond,Richmond,Contra Costa County",37.923847,-122.371652,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Pier Dock Number - RCH RLW 1,Richmond,Contra Costa County",37.896404,-121.617486,1.0,street_center,Discovery Bay,CA,Contra Costa County,94505.0,135000.0,11533.0,55.3,0.7,0.911,0.009,0.0,0.027,0.0
+"332 South 41st Street,Richmond,Contra Costa County",37.927152,-122.330387,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,0.0,0.0,31.8,7.2,0.095,0.723,0.0,0.048,0.0
+"Ryden Road,Richmond,Contra Costa County",37.901466,-122.317869,0.9,street_center,Richmond,CA,Contra Costa County,94850.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"842 Amador Ave,Richmond,Contra Costa County",37.946213,-122.324146,0.86,rooftop,Richmond,CA,Contra Costa County,94805.0,154306.0,39107.0,39.2,3.7,0.542,0.105,0.008,0.215,0.0
+"1501 Rheem Ave,Richmond,Contra Costa County",37.94973,-122.355537,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,41995.0,30517.0,25.7,20.4,0.283,0.717,0.0,0.0,0.0
+"Pier E E Dock-E235 at 1340 Marina Way South,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"Mile marker 10.25 of the Martinez subdivision.,Richmond,Contra Costa County",37.932874,-122.34492,0.69,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,103500.0,68832.0,44.6,14.6,0.284,0.17,0.0,0.534,0.0
+"100 Cutting Blvd,Richmond,Contra Costa County",37.922339,-122.369192,0.95,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Number 6 and 13th St,Richmond,Contra Costa County",38.008807,-121.813787,0.51,intersection,Antioch,CA,Contra Costa County,94509.0,,,,,,,,,
+"100 Cutting Blvd, Santa Fe Channel, near the address location [county incorrectly listed as Sonoma on NRC report],Richmond,Contra Costa County",37.922339,-122.369192,0.3,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Rydin Rd. & Central Ave.,Richmond,Contra Costa County",37.899639,-122.316652,1.0,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Marina Yacht Harbor,  1340 Marina Way South,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"2755 Isabel St,Richmond,Contra Costa County",37.897055,-122.32188,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"846 Harbor Wy South,Richmond,Contra Costa County",0.0,0.0,0.0,,,,,,,,,,,,,,
+"1301 Dunn Ave,Richmond,Contra Costa County",37.948995,-122.35722,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,59188.0,28498.0,40.5,5.2,0.638,0.176,0.0,0.186,0.0
+"2301 Cutting Blvd,Richmond,Contra Costa County",37.924923,-122.347323,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,37214.0,13731.0,20.8,9.9,0.0,0.445,0.0,0.141,0.0
+"3201 Leona Ave,Richmond,Contra Costa County",37.932625,-122.33863,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"300 west Chanslor,Richmond,Contra Costa County",37.932816,-122.374037,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,65365.0,32881.0,33.1,19.0,0.403,0.409,0.0,0.097,0.0
+"3501 Wall Ave,Richmond,Contra Costa County",37.928166,-122.336658,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"1900 Meeker Ave,Richmond,Contra Costa County",37.919435,-122.350676,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"Butte and Burlingame,Richmond,Contra Costa County",37.910854,-122.312356,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"131 South 2nd St,Richmond,Contra Costa County",37.930179,-122.36824,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,43255.0,7078.0,31.4,1.7,0.077,0.653,0.009,0.059,0.0
+"441 Santa Fe Ave,Richmond,Contra Costa County",37.897791,-122.28802,1.0,range_interpolation,Albany,CA,Alameda County,94706.0,215118.0,15942.0,46.2,5.5,0.579,0.151,0.0,0.131,0.0
+"441 Santa Fe Avenue,Richmond,Contra Costa County",37.897791,-122.28802,1.0,range_interpolation,Albany,CA,Alameda County,94706.0,215118.0,15942.0,46.2,5.5,0.579,0.151,0.0,0.131,0.0
+"Richmond Marina,Richmond,Contra Costa County",37.912211,-122.303675,0.3,street_center,El Cerrito,CA,Contra Costa County,94530.0,122750.0,31172.0,38.4,1.3,0.644,0.015,0.005,0.29,0.0
+"805 Marina Bay Parkway,Richmond,Contra Costa County",37.918938,-122.346844,0.86,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"2755 Isabel St (Point Isabel Wet Weather Facility),Richmond,Contra Costa County",37.897055,-122.32188,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"Point Isabel, 2755 Isabel St.,Richmond,Contra Costa County",37.897055,-122.32188,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"860 Harbour Way South,Richmond,Contra Costa County",37.920138,-122.359448,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"F Dock at 351 Brickyard Cove. Rd., Point Richmond,Unincorporated county area,Contra Costa County",37.9093,-122.383381,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"MP 13.3, Track #1, Chesley Ave at Rumrill Blvd,Richmond,Contra Costa County",37.931623,-122.366965,0.9,rooftop,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+"Chesley Ave Crossing MPM 13.3,Richmond,Contra Costa County",37.931623,-122.366965,0.9,rooftop,Richmond,CA,Contra Costa County,94801.0,56053.0,35670.0,35.2,15.5,0.166,0.343,0.118,0.31,0.0
+"911 Chevron Way / Near wharf area, salt water station,Richmond,Contra Costa County",37.92948,-122.386683,0.8,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"2280 Key Blvd,Richmond,Contra Costa County",37.93182,-122.321381,1.0,range_interpolation,El Cerrito,CA,Contra Costa County,94530.0,134007.0,34402.0,44.2,8.0,0.735,0.021,0.0,0.241,0.0
+"2755 Isabel St.,Richmond,Contra Costa County",37.897055,-122.32188,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"303 Garrard St,Richmond,Contra Costa County",37.936462,-122.372425,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Bayview Rd. at 580,Richmond,Contra Costa County",37.928749,-122.390207,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"801 Chevron Way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"23rd Street and Foothill Ave,Richmond,Contra Costa County",37.923902,-122.347417,0.78,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"just south of the Richmond Bridge on the east shore.,Richmond,Contra Costa County",37.732674,-122.237103,1.0,street_center,Alameda,CA,Alameda County,94502.0,199962.0,31010.0,37.6,5.1,0.384,0.067,0.0,0.462,0.023
+"402 Wright Ave DOT ID # 931747X,Richmond,Contra Costa County",37.9296,-121.925911,0.1,rooftop,Clayton,CA,Contra Costa County,94517.0,175701.0,91681.0,47.6,15.7,0.982,0.0,0.0,0.0,0.0
+"Slips B81-B85, B-Dock Marina Bay Yacht Harbor,Richmond,Contra Costa County",37.919479,-121.951543,0.4,county,,CA,Contra Costa County,,,,,,,,,,
+"Intersection of Humboldt St and Garvin Ave,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"the break occurred about 100 feet from the intersection of Sandpiper Spit Court at Brickyard Cove Road,Richmond,Contra Costa County",37.743103,-122.168645,1.0,street_center,Oakland,CA,Alameda County,94603.0,53000.0,9977.0,27.7,2.2,0.055,0.886,0.025,0.021,0.0
+"1100 Hensley Street,Richmond,Contra Costa County",37.94816,-122.363554,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"911 Chevron Way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"36 17th St,Richmond,Contra Costa County",37.931858,-122.35315,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,87250.0,28617.0,29.3,7.0,0.0,0.586,0.0,0.249,0.0
+"1340 Marina Wy S, Slips F263-273,Richmond,Contra Costa County",37.95334,-122.324426,0.2,rooftop,San Pablo,CA,Contra Costa County,94806.0,68523.0,17649.0,34.2,5.0,0.512,0.203,0.0,0.24,0.0
+"1416 Sand piper Spit,Richmond,Contra Costa County",37.908138,-122.37685,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Richmond Refinery Long Wharf at 841 Chevron Way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"The Long Wharf for 841 Chevron Way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"841 Chevron Way (Chevron Refinery),Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"2656 Mira Vista Dr,East Richmond Heights,Contra Costa County",37.938854,-122.313655,0.9,rooftop,Richmond,CA,Contra Costa County,94805.0,117024.0,45554.0,56.3,4.3,0.617,0.05,0.0,0.271,0.0
+"Richmond-San Rafael Bridge Crossing,Richmond,Contra Costa County",37.913879,-122.304704,1.0,street_center,El Cerrito,CA,Contra Costa County,94530.0,159667.0,69948.0,47.4,6.4,0.511,0.013,0.0,0.354,0.0
+"2658 Mira Vista x Hazel Ave,Richmond,Contra Costa County",37.938958,-122.313653,0.86,rooftop,Richmond,CA,Contra Costa County,94805.0,117024.0,45554.0,56.3,4.3,0.617,0.05,0.0,0.271,0.0
+"Chevron Oil Refinery,Richmond,Contra Costa County",37.92948,-122.386683,1.0,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"1314 Canal Blvd,Richmond,Contra Costa County",37.912224,-122.365991,0.85,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Richmond Berth 3, 1314 Canal Blvd,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Berth 22, Port of Richmond,Richmond,Contra Costa County",37.919479,-121.951543,0.95,county,,CA,Contra Costa County,,,,,,,,,,
+"1316 Canal Blvd,Richmond,Contra Costa County",37.907843,-122.369544,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Point Isabel - 2755 Isabel Street,Richmond,Contra Costa County",37.897055,-122.32188,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"Chevron Richmond Refinery - Gertrude Street,Richmond,Contra Costa County",37.92948,-122.386683,1.0,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Point Isabel Wet Weather Facility,  2755 Isabel Street,Richmond,Contra Costa County",37.897055,-122.32188,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"2535 Andrade Ave,Richmond,Contra Costa County",37.948002,-122.343517,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,76803.0,7724.0,28.2,7.5,0.158,0.021,0.0,0.822,0.0
+"1300 Dunn Ave.,Richmond,Contra Costa County",37.948685,-122.356936,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,59188.0,28498.0,40.5,5.2,0.638,0.176,0.0,0.186,0.0
+"300 Pennsylvania,Richmond,Contra Costa County",37.942439,-122.36669,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,57933.0,14262.0,28.1,3.1,0.026,0.638,0.034,0.063,0.0
+"3600 Cutting Blvd,Richmond,Contra Costa County",37.925595,-122.334944,0.9,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"2400 Maine Ave. nearest cross street is S. 24th St.,Richmond,Contra Costa County",37.927762,-122.34648,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,59840.0,16148.0,24.6,6.5,0.064,0.456,0.0,0.272,0.0
+"2755 Isabel Street, Point Isabel Wet Weather Facility,Richmond,Contra Costa County",37.897055,-122.32188,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"Kinder Morgan Richmond Terminal 1140 Canal Blvd. ,Richmond,Contra Costa County",37.917713,-122.369026,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"MM13.34 of the Martinez Subdivision, nearest cross street is  Chesley ,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"303 Garrard Blvd.,Richmond,Contra Costa County",37.936462,-122.372425,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"Point Isabel at 2755 Isabel Street,Richmond,Contra Costa County",37.897055,-122.32188,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"860 Harbor Way South,Richmond,Contra Costa County",37.920138,-122.359448,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"2775 Isabel St (Point Isabel Wet Weather Facility),Richmond,Contra Costa County",37.896974,-122.321763,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"1300 Dunn Ave, 1300 Rheem Ave, 1300 Costa Ave,Richmond,Contra Costa County",37.948685,-122.356936,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,59188.0,28498.0,40.5,5.2,0.638,0.176,0.0,0.186,0.0
+"5100 Ventura Ave,Richmond,Contra Costa County",37.681287,-121.784614,0.7,street_center,Livermore,CA,Alameda County,94550.0,112569.0,76375.0,40.3,3.7,0.918,0.016,0.003,0.043,0.002
+"488 WRIGHT AVE ,Richmond,Contra Costa County",37.920165,-122.364452,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"RICHMOND LONG WHARF, BERTH 4,Richmond,Contra Costa County",37.912211,-122.303675,0.9,street_center,El Cerrito,CA,Contra Costa County,94530.0,122750.0,31172.0,38.4,1.3,0.644,0.015,0.005,0.29,0.0
+"Cutting Blvd crossing,Richmond,Contra Costa County",37.92507,-122.337523,0.9,street_center,Richmond,CA,Contra Costa County,94804.0,46279.0,15606.0,31.8,3.9,0.271,0.61,0.0,0.032,0.0
+"Cutting Blvd Crossing, Subdivision: UPRR Martinez, Milepost: 10.8, DOT Crossing number: 751678U,Richmond,Contra Costa County",37.92507,-122.337523,0.9,street_center,Richmond,CA,Contra Costa County,94804.0,46279.0,15606.0,31.8,3.9,0.271,0.61,0.0,0.032,0.0
+"2600 Spinnaker Way - Slips D-149 through D-173 at D - Dock, Marina Bay Yacht Harbor,Richmond,Contra Costa County",37.912429,-122.345429,0.28,nearest_rooftop_match,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"1340 Marina Way South, D Dock, Unknown Sheen,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"23rd Street Yard, nearest road crossing the yard is Marina Bay Parkway, closest cross street is Meeker Avenue,Richmond,Contra Costa County",37.947948,-122.347583,0.4,street_center,Richmond,CA,Contra Costa County,94804.0,96250.0,24400.0,32.5,2.5,0.113,0.296,0.046,0.095,0.0
+"1500 Bissell Ave,Richmond,Contra Costa County",37.933928,-122.355211,1.0,range_interpolation,Richmond,CA,Contra Costa County,94801.0,36625.0,23062.0,33.3,9.4,0.141,0.793,0.0,0.066,0.0
+"1st location is Intersection of San Pablo Avenue and Intestate 80 On-ramp, 2nd location is 4400 Wilson Avenue,Richmond,Contra Costa County",37.976041,-121.713909,0.9,street_center,Oakley,CA,Contra Costa County,94561.0,109071.0,20769.0,36.4,5.2,0.764,0.088,0.0,0.098,0.0
+"Point Isabell Facility,  2755 Isabell Street,Richmond,Contra Costa County",37.897055,-122.32188,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"100 W Cutting Blvd,Richmond,Contra Costa County",37.923513,-122.370751,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"1340 Marina Way South, Slip E171,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"Curry Ave & Chanslor,Richmond,Contra Costa County",37.932848,-122.373854,0.8,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"MP 14.1 of the Martinez sub near Brookside Rd.,Richmond,Contra Costa County",37.969059,-121.666358,0.9,nearest_rooftop_match,Knightsen,CA,Contra Costa County,94548.0,54177.0,50349.0,32.2,9.1,0.496,0.504,0.0,0.0,0.0
+"1100 Hensley Blvd.,Richmond,Contra Costa County",37.94816,-122.363554,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"1340 Marina Way South - F183,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"Richmond 11 Kinder Morgan Conoco Phillips Dock,Richmond,Contra Costa County",38.004062,-121.724526,0.7,rooftop,Oakley,CA,Contra Costa County,94561.0,102794.0,13309.0,33.0,2.9,0.775,0.008,0.0,0.142,0.0
+"1800 Costa Ave,Richmond,Contra Costa County",37.950177,-122.352077,1.0,range_interpolation,San Pablo,CA,Contra Costa County,94806.0,41995.0,30517.0,25.7,20.4,0.283,0.717,0.0,0.0,0.0
+"1120 Brickyard Cove Rd, Unknown Sheen Incident,Richmond,Contra Costa County",37.909871,-122.378227,0.87,nearest_rooftop_match,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Across street from 305 Cutting Blvd,Richmond,Contra Costa County",37.925555,-122.366733,0.95,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"4400 Wilson Ave,Richmond,Contra Costa County",37.966399,-121.982799,0.86,nearest_rooftop_match,Concord,CA,Contra Costa County,94521.0,109083.0,50965.0,45.6,17.0,0.726,0.045,0.0,0.111,0.0
+"EB Interstate 80 at San Pablo Off-ramp,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"1300 Dunn Ave,Richmond,Contra Costa County",37.948685,-122.356936,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,59188.0,28498.0,40.5,5.2,0.638,0.176,0.0,0.186,0.0
+" Point Isabel Wet Weather Facility 2755 Isabel St,Richmond,Contra Costa County",37.897055,-122.32188,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"100 West Cutting Blvd,Richmond,Contra Costa County",37.923513,-122.370751,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"1300 Dunn Avenue,Richmond,Contra Costa County",37.948685,-122.356936,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,59188.0,28498.0,40.5,5.2,0.638,0.176,0.0,0.186,0.0
+"EB I80 on ramp at San Pablo Ave ,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"2824 Regatta Blvd,Richmond,Contra Costa County",37.914678,-122.341689,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,142134.0,27685.0,49.3,12.4,0.324,0.358,0.01,0.214,0.0
+"860 Harbor Wy S,Richmond,Contra Costa County",0.0,0.0,0.0,,,,,,,,,,,,,,
+"Point Isabel- Wet Weather Facility 2755 Isabel St,Richmond,Contra Costa County",37.897055,-122.32188,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"4400 Wilson Ave.,Richmond,Contra Costa County",37.966399,-121.982799,0.86,nearest_rooftop_match,Concord,CA,Contra Costa County,94521.0,109083.0,50965.0,45.6,17.0,0.726,0.045,0.0,0.111,0.0
+"1300 Dunn St.,Richmond,Contra Costa County",38.023514,-122.112925,0.7,street_center,Martinez,CA,Contra Costa County,94553.0,128409.0,23644.0,36.3,7.1,0.827,0.008,0.0,0.082,0.0
+"Intersection of Roosevelt Ave. and San Pablo Ave..,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"2824 Regatta Blvd.,Richmond ,Contra Costa County",37.914678,-122.341689,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,142134.0,27685.0,49.3,12.4,0.324,0.358,0.01,0.214,0.0
+"Intersection of 23rd St and Cutting Blvd.,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"2000 Giaramita St,Richmond,Contra Costa County",37.961628,-122.363427,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,55625.0,23524.0,29.3,3.9,0.381,0.398,0.0,0.088,0.0
+"Point Richmond - Intersection Western Drive and Cliffside Court,Richmond,Contra Costa County",37.90854,-121.60023,0.5,place,Discovery Bay,CA,Contra Costa County,94505.0,,,,,,,,,
+"Richmond #17,Richmond,Contra Costa County",37.924956,-122.384481,0.9,range_interpolation,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Chevron Long Wharf,Richmond,Contra Costa County",37.92948,-122.386683,1.0,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+" Milepost 11.2 Martinez Sub,Richmond,Contra Costa County",38.035806,-122.268756,0.7,street_center,Rodeo,CA,Contra Costa County,94572.0,80404.0,38054.0,44.3,9.9,0.447,0.1,0.0,0.317,0.031
+"12141 San Pablo,Richmond,Contra Costa County",37.933301,-122.324428,0.9,rooftop,Richmond,CA,Contra Costa County,94805.0,134007.0,34402.0,44.2,8.0,0.735,0.021,0.0,0.241,0.0
+"Richmond Parkway crossing,Richmond,Contra Costa County",37.912211,-122.303675,0.86,street_center,El Cerrito,CA,Contra Costa County,94530.0,122750.0,31172.0,38.4,1.3,0.644,0.015,0.005,0.29,0.0
+"Richmond Slough,Richmond,Contra Costa County",37.912211,-122.303675,0.9,street_center,El Cerrito,CA,Contra Costa County,94530.0,122750.0,31172.0,38.4,1.3,0.644,0.015,0.005,0.29,0.0
+"Point Isabella Park,  Rydan Road,Richmond,Contra Costa County",37.90854,-121.60023,0.5,place,Discovery Bay,CA,Contra Costa County,94505.0,,,,,,,,,
+"Dornan Rd at Western Dr (Keller Beach),Richmond,Contra Costa County",37.92107,-122.385624,0.99,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"6101 Santa Cruz,Richmond,Contra Costa County",37.908613,-122.308792,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,86078.0,20727.0,39.5,12.5,0.695,0.03,0.0,0.15,0.0
+"3500 Bissell Ave,Richmond,Contra Costa County",37.933186,-122.336023,1.0,rooftop,Richmond,CA,Contra Costa County,94805.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"841 Chevron Way - Richmond refinery,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"731 Cutting Blvd,Richmond,Contra Costa County",37.926096,-122.37681,0.8,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Pt Potrero,Richmond,Contra Costa County",37.90854,-121.60023,0.5,place,Discovery Bay,CA,Contra Costa County,94505.0,,,,,,,,,
+"1313 Canal Way, Basin 3,Richmond,Contra Costa County",38.019522,-121.937417,0.7,street_center,Pittsburg,CA,Contra Costa County,94565.0,0.0,0.0,42.5,16.0,0.309,0.102,0.053,0.488,0.0
+"Richmond Lube Oil Plant,  Chevron Refinery, 841 Chevron Way,Richmond,Contra Costa County",37.539713,-122.001619,0.9,street_center,Fremont,CA,Alameda County,94536.0,119545.0,21353.0,43.5,3.4,0.451,0.032,0.0,0.449,0.005
+"MPM 27.7 on the Niles Sup  ,Richmond,Contra Costa County",38.028158,-122.265808,1.0,range_interpolation,Rodeo,CA,Contra Costa County,94572.0,82375.0,40723.0,33.6,4.3,0.27,0.238,0.0,0.365,0.11
+"Dock 17B 100 Cutter Blvd,Richmond,Contra Costa County",37.967422,-122.257249,0.7,street_center,El Sobrante,CA,Contra Costa County,94803.0,137096.0,21783.0,41.5,8.6,0.617,0.164,0.0,0.132,0.0
+"841 Chevron Way //Berth number 1,Richmond,Contra Costa County",37.92948,-122.386683,0.8,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"UPS Sorting Facility,  1601 Atlas Road,Richmond,Contra Costa County",37.996643,-122.341595,0.9,rooftop,San Pablo,CA,Contra Costa County,94806.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"Intersection of Riverside Avenue and North Arlington Blvd,Richmond,Contra Costa County",37.919479,-121.951543,0.4,county,,CA,Contra Costa County,,,,,,,,,,
+"731 West Cutting Blvd,Richmond,Contra Costa County",37.926096,-122.37681,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Gertrude Ave and McKosen Road,Richmond,Contra Costa County",37.954196,-122.369169,1.0,street_center,Richmond,CA,Contra Costa County,94801.0,106500.0,43340.0,37.3,5.7,0.0,0.651,0.0,0.319,0.019
+"MPM 1189,Richmond,Contra Costa County",37.915065,-122.304611,0.9,nearest_rooftop_match,El Cerrito,CA,Contra Costa County,94530.0,159667.0,69948.0,47.4,6.4,0.511,0.013,0.0,0.354,0.0
+"3429 Cutting Blvd,Richmond,Contra Costa County",37.925531,-122.33638,0.95,rooftop,Richmond,CA,Contra Costa County,94804.0,57803.0,13467.0,29.8,2.0,0.083,0.628,0.061,0.127,0.0
+"230 N. Cutting Ave.,Richmond,Contra Costa County",37.923847,-122.371652,0.8,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"1 West Richmond Ave,Richmond,Contra Costa County",37.924918,-122.38466,1.0,rooftop,Richmond,CA,Contra Costa County,94801.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"840 Morton Ave,Richmond,Contra Costa County",37.981982,-122.356451,1.0,rooftop,San Pablo,CA,Contra Costa County,94806.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"Chevron Richmond Refinery, 841 Chevron Way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"3701 Collins Ave,Richmond,Contra Costa County",37.981689,-122.353658,0.9,rooftop,San Pablo,CA,Contra Costa County,94806.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"1340 Marina Way South berth D-039,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"1140 Cannel Ave,Richmond,Contra Costa County",37.698285,-122.124611,0.7,street_center,San Lorenzo,CA,Alameda County,94580.0,80078.0,27590.0,42.1,8.9,0.097,0.272,0.028,0.56,0.0
+"223 25th Street,Richmond,Contra Costa County",37.934445,-122.345915,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,103500.0,68832.0,44.6,14.6,0.284,0.17,0.0,0.534,0.0
+"Richmond Long Wharf (Chevron),Richmond,Contra Costa County",37.912211,-122.303675,0.9,street_center,El Cerrito,CA,Contra Costa County,94530.0,122750.0,31172.0,38.4,1.3,0.644,0.015,0.005,0.29,0.0
+"Harbor Way and Wright Ave,Richmond,Contra Costa County",37.921195,-122.36006,0.8,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"West Cutting Blvd and Boatramp Street,Richmond,Contra Costa County",37.925114,-122.372223,0.9,street_center,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Point Isabel Wet Weather Treatment Facility, 2755 Isabel Street,Richmond,Contra Costa County",37.90854,-121.60023,0.5,place,Discovery Bay,CA,Contra Costa County,94505.0,,,,,,,,,
+"Nevin at San Pablo Ave,Richmond,Contra Costa County",37.935997,-122.342299,0.9,street_center,Richmond,CA,Contra Costa County,94804.0,12675.0,2281.0,40.4,8.2,0.211,0.686,0.0,0.046,0.0
+"10th St. at Dimm Ave,Richmond,Contra Costa County",37.947523,-122.384032,0.5,place,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"Barrett Ave at 44th St.,Richmond,Contra Costa County",37.935845,-122.327519,0.99,intersection,Richmond,CA,Contra Costa County,94805.0,,,,,,,,,
+"Harbor Blvd, Wright Ave,Richmond,Contra Costa County",37.747327,-122.251001,0.9,street_center,Alameda,CA,Alameda County,94502.0,147679.0,78723.0,51.3,11.6,0.441,0.034,0.0,0.397,0.0
+"Boat Ramp Road & Cutting Blvd,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+" Point Isabel Wet Weather Treatment Facility, 2755 Isabel Street,Richmond,Contra Costa County",37.90854,-121.60023,0.5,place,Discovery Bay,CA,Contra Costa County,94505.0,,,,,,,,,
+"Roosevelt Ave & San Pablo Ave, ,Richmond,Contra Costa County",37.937078,-122.325723,0.99,intersection,Richmond,CA,Contra Costa County,94805.0,,,,,,,,,
+"San Pablo Ave @ I-80 Overpass (manhole #010186),Richmond,Contra Costa County",37.93784,-122.326253,0.78,intersection,Richmond,CA,Contra Costa County,94805.0,,,,,,,,,
+"3200 Ragetta Blvd (Manhole #120155),Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"San Pablo Ave @ I-80 On- Ramp (Manhole # 010185),Richmond,Contra Costa County",37.93784,-122.326253,0.78,intersection,Richmond,CA,Contra Costa County,94805.0,,,,,,,,,
+"Manhole #030266 @ 614 Wilson Ave,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"2910 Hilltop Drive,Richmond,Contra Costa County",37.977243,-122.332918,0.9,rooftop,San Pablo,CA,Contra Costa County,94806.0,92813.0,18368.0,50.0,5.6,0.037,0.402,0.0,0.331,0.0
+"Harbor Way South and Wright Ave,Richmond,Contra Costa County",37.921195,-122.36006,0.95,intersection,Richmond,CA,Contra Costa County,94804.0,,,,,,,,,
+"Boat Ramp Rd and Cutting Blvd,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"3200 Regata Blvd  Man hole 120155,Richmond,Contra Costa County",37.915843,-122.340199,0.4,rooftop,Richmond,CA,Contra Costa County,94804.0,142134.0,27685.0,49.3,12.4,0.324,0.358,0.01,0.214,0.0
+"321 Canal Blvd  Man hole 100020,Richmond,Contra Costa County",37.928433,-122.37887,0.4,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Nevin & San Pablo Ave , manhole 010300, 010297,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"601 Canal Blvd ,Richmond,Contra Costa County",37.919772,-122.379063,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"777 Humboldt Street,Richmond,Contra Costa County",37.944088,-122.325056,1.0,rooftop,Richmond,CA,Contra Costa County,94805.0,123882.0,44857.0,42.9,8.9,0.741,0.105,0.0,0.101,0.0
+"601 Canal Blvd,Richmond,Contra Costa County",37.919772,-122.379063,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Intersection of 20th Street and Grant Avenue,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"841 Chevron Way, Chevron Refinery,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"1071 Parkside Drive,Richmond,Contra Costa County",37.979803,-122.310619,0.9,rooftop,El Sobrante,CA,Contra Costa County,94803.0,88818.0,22868.0,48.4,4.4,0.141,0.386,0.0,0.443,0.0
+"3615 Park Ridge Drive,Richmond,Contra Costa County",37.989004,-122.343545,1.0,rooftop,San Pablo,CA,Contra Costa County,94806.0,89074.0,16419.0,35.2,2.4,0.105,0.099,0.0,0.77,0.0
+"Marina Channel Entrance,Richmond,Contra Costa County",37.827463,-122.1353,1.0,street_center,Moraga,CA,Contra Costa County,94556.0,155994.0,22028.0,45.5,4.1,0.715,0.0,0.0,0.181,0.0
+"Nevin at San Pablo,Richmond,Contra Costa County",37.935997,-122.342299,0.9,street_center,Richmond,CA,Contra Costa County,94804.0,12675.0,2281.0,40.4,8.2,0.211,0.686,0.0,0.046,0.0
+"San Pablo at Nevin Ave,Richmond,Contra Costa County",37.933622,-122.324224,0.8,intersection,Richmond,CA,Contra Costa County,94805.0,,,,,,,,,
+"Santa Fe Channel,Richmond,Contra Costa County",38.012424,-122.287647,1.0,street_center,Hercules,CA,Contra Costa County,94547.0,118750.0,39351.0,41.7,3.3,0.193,0.255,0.0,0.472,0.0
+"1140 Canal Blvd, Kinder Morgan Richmond Terminal - Bulk Storage Liquid Terminal,Richmond,Contra Costa County",37.917713,-122.369026,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"Richmond Long Wharf, Berth 4,Richmond,Contra Costa County",37.912211,-122.303675,0.9,street_center,El Cerrito,CA,Contra Costa County,94530.0,122750.0,31172.0,38.4,1.3,0.644,0.015,0.005,0.29,0.0
+"Marina Way by the Salute Restaurant.  East from Harbor Master's Office,Richmond,Contra Costa County",37.938677,-122.356028,0.9,street_center,Richmond,CA,Contra Costa County,94801.0,105795.0,59558.0,28.8,5.7,0.013,0.422,0.0,0.527,0.0
+"1240 Harbor Way E Dock 263,Richmond,Contra Costa County",38.026212,-122.256266,0.7,street_center,Rodeo,CA,Contra Costa County,94572.0,113750.0,22089.0,42.7,4.4,0.427,0.063,0.0,0.405,0.008
+"Chevron Refinery, 841 Chevron Way,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"I.M.T.T. dock,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"250' north of El Portel Drive on Via Verde,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Amtrak train depot and Cutting Blvd between mile marker  11.2 and 10.85,Richmond,Contra Costa County",37.919479,-121.951543,0.4,county,,CA,Contra Costa County,,,,,,,,,,
+"Via Verde with a cross street of El Portal,Richmond,Contra Costa County",37.922663,-122.021069,1.0,street_center,Walnut Creek,CA,Contra Costa County,94598.0,188586.0,21996.0,51.9,3.6,0.738,0.0,0.0,0.132,0.001
+"2437 McBride,Richmond,Contra Costa County",37.94726,-122.344466,0.9,rooftop,Richmond,CA,Contra Costa County,94804.0,76803.0,7724.0,28.2,7.5,0.158,0.021,0.0,0.822,0.0
+"1340 MARINA WAY SOUTH, MARINA BAY YACHT HARBOR AT THE F DOCK,Richmond,Contra Costa County",37.917326,-122.355774,0.4,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"FORD ASSEMBLY BUILDING. 1340 MARINA WAY SOUTH ,Richmond,Contra Costa County",37.919479,-121.951543,0.4,county,,CA,Contra Costa County,,,,,,,,,,
+"4100 Jenkins Way,Richmond,Contra Costa County",37.985041,-122.356383,1.0,rooftop,San Pablo,CA,Contra Costa County,94806.0,64097.0,20363.0,37.3,8.7,0.155,0.823,0.0,0.023,0.0
+"800 WHARF ST. ,Richmond,Contra Costa County",37.918852,-122.374324,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,169688.0,62451.0,56.1,7.2,0.75,0.038,0.0,0.165,0.0
+"1070 N Rancho Rd,Richmond,Contra Costa County",37.988968,-122.291817,1.0,range_interpolation,El Sobrante,CA,Contra Costa County,94803.0,82857.0,38938.0,51.0,10.3,0.45,0.036,0.0,0.491,0.0
+"Unknown Sheen Incident ""D"" Dock/ Slips 151-157, 1340 Marina Way South,Richmond,Contra Costa County",37.919479,-121.951543,0.4,county,,CA,Contra Costa County,,,,,,,,,,
+"Pier 2, 1316 Canal Blvd,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"1340 Marina Way South, Slip F259,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"2400 Roosevelt Ave,Richmond,Contra Costa County",37.939561,-122.345145,0.86,rooftop,Richmond,CA,Contra Costa County,94804.0,12675.0,2281.0,40.4,8.2,0.211,0.686,0.0,0.046,0.0
+"353 24th Street,Richmond,Contra Costa County",37.936597,-122.346452,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,12675.0,2281.0,40.4,8.2,0.211,0.686,0.0,0.046,0.0
+"Lat  37 54.10N,  Long  122 24.47W,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"861 Whars St,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"In the Chevron Refinery on Channel Street,Richmond,Contra Costa County",37.919479,-121.951543,0.4,county,,CA,Contra Costa County,,,,,,,,,,
+"4677 Upland Drive, El Sobrante,Richmond,Contra Costa County",37.96216,-122.299102,0.9,rooftop,El Sobrante,CA,Contra Costa County,94803.0,135063.0,23932.0,48.0,4.7,0.524,0.085,0.0,0.278,0.028
+"Market Ave at 4th St,Richmond,Contra Costa County",37.958695,-122.365117,1.0,intersection,Richmond,CA,Contra Costa County,94801.0,,,,,,,,,
+"South 19th at Neker Ave,Richmond,Contra Costa County",37.925902,-122.351129,1.0,street_center,Richmond,CA,Contra Costa County,94804.0,53500.0,13239.0,25.8,5.2,0.143,0.54,0.0,0.034,0.0
+"841 Chevron Way, Richmond Terminal,Richmond,Contra Costa County",37.92948,-122.386683,0.7,street_center,Richmond,CA,Contra Costa County,94801.0,112989.0,12803.0,45.4,3.8,0.852,0.006,0.0,0.039,0.0
+"NB 580 just South of Richmond Bridge,Richmond,Contra Costa County",37.732674,-122.237103,0.7,street_center,Alameda,CA,Alameda County,94502.0,199962.0,31010.0,37.6,5.1,0.384,0.067,0.0,0.462,0.023
+"Richmond Parkway and Hilltop Drive,Richmond,Contra Costa County",37.987184,-122.339643,0.99,intersection,San Pablo,CA,Contra Costa County,94806.0,,,,,,,,,
+"Richmond Parkway and Hilltop Dr,Richmond,Contra Costa County",37.987184,-122.339643,0.99,intersection,San Pablo,CA,Contra Costa County,94806.0,,,,,,,,,
+"Dock 17, 100 Cutting Blvd. ,Richmond,Contra Costa County",37.743103,-122.168645,0.7,street_center,Oakland,CA,Alameda County,94603.0,53000.0,9977.0,27.7,2.2,0.055,0.886,0.025,0.021,0.0
+"Intersection of 24th Street and Rheem Avenue,Richmond,Contra Costa County",37.919479,-121.951543,1.0,county,,CA,Contra Costa County,,,,,,,,,,
+"Valero Marina Barbor Way,Richmond,Contra Costa County",37.5393,-121.953279,0.4,street_center,Fremont,CA,Alameda County,94539.0,204000.0,40931.0,39.0,4.0,0.082,0.007,0.01,0.838,0.0
+"1306 Channel Blvd,Richmond,Contra Costa County",37.911078,-122.327023,0.67,street_center,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"1340 Marina Way South Slip D-141A, D-Dock ,Richmond,Contra Costa County",37.917326,-122.355774,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"860 harbour Way South,Richmond,Contra Costa County",37.920138,-122.359448,1.0,rooftop,Richmond,CA,Contra Costa County,94804.0,107880.0,52395.0,39.9,3.9,0.336,0.414,0.0,0.132,0.017
+"2755 Isaabel St (Isabel Facility),Richmond,Contra Costa County",37.897055,-122.32188,1.0,range_interpolation,Richmond,CA,Contra Costa County,94804.0,105945.0,10039.0,43.9,10.4,0.501,0.164,0.0,0.31,0.0
+"3410 Barrett Ave. ,Richmond,Contra Costa County",37.936604,-122.336033,0.95,rooftop,Richmond,CA,Contra Costa County,94805.0,88125.0,22284.0,41.7,6.8,0.277,0.159,0.0,0.345,0.0
